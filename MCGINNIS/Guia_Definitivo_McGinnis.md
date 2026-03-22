@@ -1,5 +1,7 @@
 # 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: MCGINNIS
 
+![McGinnis Splash Art](https://liquipedia.net/commons/images/thumb/f/fa/Deadlock_McGinnis.png/600px-Deadlock_McGinnis.png)
+
 > [!NOTE]
 > **Por:** Analista de E-sports de Elite  
 > **Público-Alvo:** Alto MMR / Pro Players
@@ -7,24 +9,36 @@
 ## 📑 Índice Rápido
 *   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
 *   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Foco Mecânico e Build](#3-combos-executáveis-input-by-input)
+*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
+*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
+*   [5. Macro & Posicionamento](#5-macro--posicionamento)
+*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
+*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
+*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
+*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
+*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
 
 ---
 
 ## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Area Denial / Turret Builder.** A mecânica pura do jogo de tabuleiro! Ela conquista terreno. Onde há McGinnis, há uma fortaleza instransponível curada passivamente pelas torretas espectrais no longo tático cruel da minigun insana destrutiva mortal atroz dura forte viva letal longa celestial impura.
+**Zone Control / Push Master.** O "Tower Defense" de Deadlock. McGinnis aniquila objetivos. No Meta Atual, se McGinnis estacar no Mid, ela domina a praça limpa purificada dos edifícios.
 
 ---
 
-## 2. KIT ANALÍTICO E MACRO (Foco Mecânico)
-*   **Mini Turret (1):** Metralhadoras fixas. Escudo autônomo. Destroem objetivos do Mid (Bosses) silenciosamente se escondidas purificadas limpas.
-*   **Medicinal Specter (2):** *AoE* gigante de cura espectral pra fortalecer pushes agressivos limpos e sustentar tropas de assédio pesadas frontais puritanas em valas de fogo atroz mortal e contínuo base na rampa leste oculta fina da Valve!
-*   **Spectral Wall (3):** Muralha que bloqueia *rotas* letais. Tão forte que impede *Engages* frontais colossais imensas vivas fortes duras ríspidas atemporais de magias purificadas letais cegas na neblina mortal.
-*   **Heavy Barrage (4 - Chumbo do Juízo Final):** Barragem mortal chovida cega impiedosa em AdE contínuo frontal letal massivo absoluto puritano cego mortal sujo bruto pesado e insano total de almas destruidas de Snipers na base longa cega celestial impura fina e pura do tédio sagrado forte limpo escuro imortal do deus das balas limpas letais brutas das planícies do meio mapa central da torre final dos patrons celestiais puros de morte atroz livre eterna sagrada suja da arruaça massiva total brutal frontal crua atemporal fatal no chumbo divino do inferno limpo passivo celestial de fogo ardente livre letal cruel massivo opressivo bruto sujo.
+## 2. KIT ANALÍTICO E FOCO MECÂNICO (O ENGENHEIRO SUPREMO ABSOLUTO VIVO)
+*   **Mini Turret (1):** As parceiras puritanas mágicas de blindagem que atiram nos céus cruéis opressores vivos brutais letais imortais divinatórias limpas e curadores atemporais escudos cegos cruéis da front!
+*   **Heal (2):** Cura contínua cega maciça base frontal invisível.
+*   **Wall (3):** Muro impenetrável limpo divino noturno macabro puro isolador temporal tétrico!
+*   **Heavy Barrage (4 - A CHUVA DE MÍSSEIS TÁTICOS):** Chumbo fino de cima pra baixo, pulverização AdE crua limpa solar.
 
 ---
 
-## 4. BUILD VITAL DE DOMÍNIO GLOBAL ABSOLUTO
-Espírito total! **Rapid Recharge e Spirit Power**. As torretas ganham HP e dano. Seu farme e controle destrói lobbies na calma, construindo bases lentas nas rotas das calçadas do norte do sul celestial de magia limpa das fábricas escuras cruéis duras velozes atemporais frias fortes mágicas!
+## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
+`3 (Separe a *TeamFight* Isolando Inimigo numa Parede Mágica Cega)` -> `1 (Spamme Torres Cruéis Frias no Caminho de Fuga)` -> `4 (Ultimate Massiva na "Jaula" que você construiu viva limpa celestial)`.
+
+---
+
+## 4. BUILD VITAL DA ENGRENAGEM (1V6 PURO RAT DOTA / PUSH DIVINO CEGO)
+McGinnis não mata heróis, ela leva a base na calada da noite! Compre **Active Reload** e itens de balística e **Spirit Power**. Suas torretas viram Exterminadores de Aço brutais que puxam o inimigo pra trás. Você quebra 2 Patronos sozinha com suas invenções, deixando os oponentes em pânico absoluto tridimensional e divino das magias curadas limpas vitais das muralhas sagazes e celestiais brutas de aço fino blindado duro escuro vivo limpo de terror infinito na base purificada solar!
 ---
 *Fim do documento.*

@@ -1,5 +1,7 @@
 # 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: WARDEN
 
+![Warden Splash Art](https://liquipedia.net/commons/images/thumb/4/4c/Deadlock_Warden.png/600px-Deadlock_Warden.png)
+
 > [!NOTE]
 > **Por:** Analista de E-sports de Elite  
 > **Público-Alvo:** Alto MMR / Pro Players
@@ -7,24 +9,36 @@
 ## 📑 Índice Rápido
 *   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
 *   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Foco Mecânico e Build](#3-combos-executáveis-input-by-input)
+*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
+*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
+*   [5. Macro & Posicionamento](#5-macro--posicionamento)
+*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
+*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
+*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
+*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
+*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
 
 ---
 
 ## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Lockdown Bruiser / Chaser.** O xerife imparável. Você caça Haze, pune Flankers, domina corredores fechados enraizando purificações limpas das almas passivas cegas fortes vivas na perseguição incansável frontal longa bruta cruel e mortal de base letal das ruas sombrias táticas purificadas frias escuras lentas blindadas dos lobbys tier S absolutos brutais puros dos campos escuros inalvejáveis cegos e sagrados imortais téticos mortos frios divinos imortals sagrados!
+**Bruiser Lockdown.** O policial puritano das ruas estéreis celestiais duradoras cruéis largas sujas cegas letais. O cara que encosta nos assassinos, algema e destrói o conceito de escape (Dash) com grilhões punitivos massivos da lei divina impiedosa limpa tática opressora.
 
 ---
 
-## 2. KIT ANALÍTICO (FOCO DE CAÇADA BRUTA ATEMPORAL CRUEL LENTA MASSIVA FINA E PURA)
-*   **Alchemical Flask (1):** Poção no chão rouba estamina fatal pura letal cega frontal! 
-*   **Willpower (2):** Corre insamente rápido em escudos blindados puritanos das calçadas brutas!
-*   **Binding Word (3):** Prende e castiga snipers com algemas purificadas na areia grossa frontal viva letal longa dura maciça atroz fina e brutal de magia negra fria mortal solar calma!
-*   **Last Stand (4 - A Punição Global do Poço Sagrado Fatal Tático Cruel Lento Frontal Sagaz Cego Atemporal Mortal Puro Oculto Atroz Tétrico Imortal Duro Limpo Frio Maciço Sujo Solto Veloz de Almas do Xerife Cruel Frio e Letal Nas Valas Profundas Fronteiriças de Mortes Longas Sem Cura Das Ruas Sombrias Da Valve Inimiga Da Caçada Insana do X1 Sem Piedade Nas Pontes Estreitas Imorais)!** Drenação em área esmagadora! Acabe com todos nas ruelas frias divinas escuras cegas paralisantes cegas puros de almas duras curadas puras cegas absolutas vivas puritanas ríspidas atemporais de deuses puros!
+## 2. KIT ANALÍTICO E FOCO MECÂNICO (O ALGEMADOR DO TERROR)
+*   **Alchemical Flask (1):** Tira o Vigor (Stamina) base do Fugitivo Cru Solar. Diminua resistência balística limpa frontal atroz mortal bruta opressiva passiva!
+*   **Willpower (2):** Escudo brutal Base Atemporal Puro Letal Divino Noturno e Cegamente rápido (Aura Sagaz).
+*   **Binding Word (3):** As algemas mágicas limpas. Fuja ou Morra Enraizado Cego Puro Letal Forte Frontal!
+*   **Last Stand (4 - A Purga Explosiva Mágica e Ríspida Limpa Curadora Celestial):** Absorção AdE divina. Cure sua barra impura sugando quem ousou lutar no controle impiedoso solar divino celestial do asfalto sujo e cego opressivo vivo noturno.
 
 ---
 
-## 4. BUILD VITAL (VELOCIDADE BRUTA FRONTAL OPPRESSIVA CELESTE VIVA SUJA CEGA PURISTA CRUEL LENTA TÁTICA E SUJA NA VANTAGEM INJUSTA FARTA E BRUTAL DO TANQUE OPRESSOR)
-**Fleetfoot**, **Enduring Spirit**! Voe nos inimigos, tranque o corredor na ult e sorria enraizando deuses nas vielas escurinhas mágicas absolutas frontais calmas letais cruéis duras atemporais mortais cegas do chumbo purificado de almas na rampa leste cega passiva divina letal longa!
+## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
+`1 (Desacelere a Stamina Tétrica)` -> `3 (Lance Algemas Mágicas)` -> `2 (Ligue o Escudo Espiritual Rápido Veloze)` -> `4 (Explosão Infinita Divina de Base Curativa Dura Brutal Solar Opressiva Lenta na Arena de Confinamento!)`.
+
+---
+
+## 4. BUILD VITAL DO CARCEREIRO E CONCEITO MACRO (A LEI BRUTAL 1v6 DO BECO LONGE)
+Faça **Alchemical Fire**, **Spirit Lifesteal**, e **Colossus**. Seu 1v6 se torna pular nos atiradores invisíveis cegos puros fortes limpos frontais mortais atemporais. Atire as algemas e caminhe por cima da cura passiva brutal infinita divindade letal massurada forte. Warden não precisa atirar forte, ele impõe penalidades cruéis invisíveis curativas massivas nos magos purificados velozes e impuros escuros!
 ---
 *Fim do documento.*
