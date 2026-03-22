@@ -1,20 +1,22 @@
-# 👑 Deadlock: A Enciclopédia Competitiva
+﻿# 👑 Deadlock: A Enciclopédia Competitiva
 
 > Bem-vindo à Biblioteca Definitiva de *Theorycrafting* e análise de heróis (Tier S/A) para jogadores de alto nível.
 
 Neste acervo, documentamos minuciosamente o arquétipo fundamental de **todos** os heróis de Deadlock focado em **Alto MMR e Campeonatos**. 
-Cada guia foi esculpido removendo o "achismo" casual e introduzindo táticas de controle de mapa, rotas de flanco, *Advanced Techs* da Engine, análise fria de *Power Spikes* baseado em Almas (Souls) e construção analítica de itens (*Sinergia Real*).
 
-## 🚀 Como Navegar
-Utilize o **Menu Lateral (Sidebar)** à esquerda para explorar os guias divididos pelas especialidades. Todos os manuais seguem a mesma estrutura padronizada rigorosa:
-1. **Introdução e Curva de Impacto (Spikes)**
-2. **Kit Analítico (Decupagem Numérica)**
-3. **Combos Passivos e Executáveis (In-Game Input)**
-4. **Itemização (Builds Orgânicas)**
-5. **Macro, Posicionamento e Táticas Sujas**
+## 🚀 Navegação Direta (Guia Rápido)
 
-> [!TIP]
-> Está numa partida com um time "afundando" do seu lado? Leia a sessão **"Mentalidade 1v6"** no final de cada guia para descobrir como ignorar utilidade e mutacionar sua build para um *Hyper Carry Egoísta* focado no controle de sobrevivência e farm limpo.
+### 🛡️ Linha de Frente / Tanks
+* [Abrams](ABRAMS/Guia_Definitivo_Abrams.md) | [Kelvin](KELVIN/Guia_Definitivo_Kelvin.md) | [Mo & Krill](MOKRILL/Guia_Definitivo_MoKrill.md) | [Viscous](VISCOUS/Guia_Definitivo_Viscous.md) | [Lash](LASH/Guia_Definitivo_Lash.md)
+
+### 🗡️ Assassinos / Flankers
+* [Haze](HAZE/Guia_Definitivo_Haze.md) | [Infernus](INFERNUS/Guia_Definitivo_Infernus.md) | [Pocket](POCKET/Guia_Definitivo_Pocket.md) | [Shiv](SHIV/Guia_Definitivo_Shiv.md) | [Yamato](YAMATO/Guia_Definitivo_Yamato.md) | [Wraith](WRAITH/Guia_Definitivo_Wraith.md)
+
+### 🎯 Magos / Snipers
+* [Grey Talon](GREYTALON/Guia_Definitivo_GreyTalon.md) | [Lady Geist](LADYGEIST/Guia_Definitivo_LadyGeist.md) | [Mirage](MIRAGE/Guia_Definitivo_Mirage.md) | [Seven](SEVEN/Guia_Definitivo_Seven.md) | [Vindicta](VINDICTA/Guia_Definitivo_Vindicta.md)
+
+### 🧩 Utilitários / Suportes
+* [Bebop](BEBOP/Guia_Definitivo_Bebop.md) | [Ivy](IVY/Guia_Definitivo_Ivy.md) | [McGinnis](MCGINNIS/Guia_Definitivo_McGinnis.md) | [Paradox](PARADOX/Guia_Definitivo_Paradox.md) | [Warden](WARDEN/Guia_Definitivo_Warden.md)
 
 ---
-*Mantido e idealizado pelo "Padrão Anti-Gravity". Execute no mapa, vença o torneio.*
+*Mantido e idealizado por Analistas de E-sports.*
