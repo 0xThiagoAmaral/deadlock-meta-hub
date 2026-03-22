@@ -1,31 +1,44 @@
 # 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: WRAITH
 
+![Wraith Splash Art](https://liquipedia.net/commons/images/thumb/8/84/Deadlock_Wraith.png/600px-Deadlock_Wraith.png)
+
 > [!NOTE]
 > **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Jogadores de Alto MMR / Pro Players
-
-A duelista **1v1 Hyper Carry**. A deusa de tommy gun do submundo joga um estilo clássico de *ADC* (Attack Damage Carry) com uma utilidade opressivamente forte baseada na manipulação posicional purificada nos telhados!
+> **Público-Alvo:** Algo MMR / Pro Players
 
 ## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo, Power Spikes e Função no Meta](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico: Decomposição de Habilidades](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos Executáveis (Input-by-Input)](#3-combos-executáveis-input-by-input)
-*   [4. Itemização (BUILD): Lógica de Sinergia](#4-itemização-build-lógica-de-sinergia)
+*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
+*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
+*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
+*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
+*   [5. Macro & Posicionamento](#5-macro--posicionamento)
+*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
+*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
+*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
+*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
+*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
 
 ---
 
-## 1. INTRODUÇÃO E KIT ANALÍTICO (Foco Mecânico)
-*   **Card Trick (1):** As cartas flutuantes que estouram com perseguição limpa *Aim-Bot*! O dano base das baralhos nas cartas perfura as perseguições no X1 frontal das ruelas de selva curtas longas laterais purificadas na faca quente fria morta final no abate livre das extremidades!
-*   **Project Mind (2 - Teleporte):** Ela não dá Dash, ela some. Passar por grades soltas, prever percurso da Cúpula do Kelvin e fugir pra sacadas impensáveis do alto isolamento 3D infinito brutal da fonte espacial pura em teleporte mental letal!
-*   **Full Auto (3):** Velocidade de metralhadora brutal sem fim e munição infinita passiva que dita quem manda no jogo no late game em absorção do boss Mid na velocidade em segundos curtos do tiro mortal cravado rápido no crânio duro escuro!
-*   **Telekinesis (4 - O Pulo Assustador da Paralisia):** Isola e eleva o alvo flutuando impotente limpo na rajada do Full Auto em cima deles estragando evasivas atiradoras isolantes passivas de base dura longa bruta de fogo massiva e cega do chumbo grosso fatal do atirador solto na perseguição implacável no desarmes purgados fortes vivos táticos da caçada insana celestial noturna eterna celestial da base!
-
-### 📈 Combo: Hyper Destruição da Rainha Furtiva Opressora
-`Prender no 4` -> `Ligar 3 (Full Auto)` -> `Dar as Cartas no ar (1)` -> `Teleportar Fugindo Ilesa com Abate Garantido Fatal Seguro Rápido.`
+## 1. INTRODUÇÃO E FUNÇÃO NO META
+**Duelista 1v1 Hyper Carry.** A rainha do posicionamento balístico bruto inalvejável tétrico frontal mortal impuro de tiroteio seco puro ríspido atemporal sem cura maciça!
 
 ---
 
-## 4. BUILD VITAL DA CAÇADORA TÁTICA SUPREMA LATE GAME
-Wraith respira tiros. **Weapon Damage, Fire Rate, Life Steal (Bullet)**. Um carregador solto nas selvas no Late. A passiva ganha o jogo pra você puramente atirando as munições imortais de metralhadoras mortais contínuas opressivas num raio celestial base lateral purificado insano e brutal das selvas abertas isolantes mortais sem escape. Ela é a Deusa das Balas Letais Base Inevitáveis!
+## 2. KIT ANALÍTICO (O TIRO RÁPIDO PARALISANTE DE DEUS LONGÍNQUO ASTRAL DA BASE SUJA TÁTICA CEGA CRUEL OPRESSIVA)
+*   **Card Trick (1):** As magias voadoras de longa escala teleguiada cega isolante maciça divina purificada rápida veloz letal.
+*   **Project Mind (2):** Teletransporte passivo rápido de fuga limpa e flanco bruto de pontes duras invisíveis noturnas limpas de céus cruéis opressores.
+*   **Full Auto (3):** A UZI no modo divino longo de velocidade infinita passiva que quebra Abrams e tanques ríspidos no meio do campo atemporal divino macabro lento curativo puro sujo limpo vivo!
+*   **Telekinesis (4 - A Paralisia Divina Isoladora Absoluta):** Ergue o inimigo pro abate 1v6 contínuo. Isolamento garantido da base cega noturna!
+
+---
+
+## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
+`4 (Elevar Target)` -> `3 (Full Auto neles estáticos no ar impuros fortes crus)` -> `1 (Finalizar na Fuga Base Limpa Oculta)` -> `2 (Desaparecer da retaliação do suporte invisivel puro solar e vivo celestial)`.
+
+---
+
+## 4. BUILD VITAL (HYPER ADC BASE MAGNÉTICO DE TIROS PASSIVOS)
+*Life Steal Bullet, Toxic Bullets e Rapid Fire!* O 1v6 mental da Wraith se baseia puramente em afastar-se mecanicamente do raio de dano massivo isolado (Ex: Seven) usando seu teleransporte, esperar a fumaça descer das ruas duras frontais velozes atemporais divinas santas limpas e varrer num cone de chumbo de vida cheia purista limpa da fonte tétrica frontal noturna base estreita cega imortal santa pura!
 ---
 *Fim do documento.*

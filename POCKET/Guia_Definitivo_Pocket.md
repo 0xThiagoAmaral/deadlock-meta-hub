@@ -1,31 +1,44 @@
 # 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: POCKET
 
+![Pocket Splash Art](https://liquipedia.net/commons/images/thumb/a/a2/Deadlock_Pocket.png/600px-Deadlock_Pocket.png)
+
 > [!NOTE]
-> **Por:** Analista de E-sports de Elite & Especialista em Deadlock  
+> **Por:** Analista de E-sports de Elite  
 > **Público-Alvo:** Jogadores de Alto MMR / Pro Players
 
-Pocket é a praga do **Elusive Burst Mage**. O estilo de esconde-esconde misturado a espingarda de alma na queima da Ultimate faz desse malandro invisível um divisor de times inteiros. Requer planejamento prévio de voo do *Cloak*.
-
 ## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo, Power Spikes e Função no Meta](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico: Decomposição de Habilidades](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos Executáveis (Input-by-Input)](#3-combos-executáveis-input-by-input)
-*   [4. Itemização (BUILD): Lógica de Sinergia](#4-itemização-build-lógica-de-sinergia)
+*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
+*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
+*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
+*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
+*   [5. Macro & Posicionamento](#5-macro--posicionamento)
+*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
+*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
+*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
+*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
+*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
 
 ---
 
-## 1. INTRODUÇÃO E KIT ANALÍTICO (Foco nas Habilidades)
-*   **Barrage (1):** Bolhas mágicas em área limpas com retardo letal e Dano Espiritual longo focado no roubo passivo de rotas isoladas lentas frontais em chokepoints de selva cruzada do mid fechado.
-*   **Flying Cloak (2) - O Teleporte Ilusório:** Lança A capa no ar; *Recast* teleporta Pocket fisicamente pra onde a capa flutua distante da posição de escape inicial da perseguição em cantos remotos em queda livre pra *Baits* fatais enganadores visuais tridimensionais no teto isolante do céu!
-*   **Enchanter Satchel (3) - O Abrigo Invulnerável:** Pode evitar ultimates destrutivas do Mo & Krill burlando com as malas indestrutíveis astrais se guardando no bolsão temporal seguro purificado de stun ao cair em cima da bagagem em desastre final fugitivo da equipe presa limpa na rede letal fria!
-*   **Affliction (4) - A Praga em Área:** A ult de DoT que machuca a alma dos tanques sem curas reais ao redor de raios vastos colossais não negáveis facilmente se não limpar nas fontes do mapa natural calmo longo letal!
-
-### 📈 Combo: Carga Extrema da Praga Submersa
-`2 (Joga o casaco pro teto)` -> `3 (Pula na bolsa dentro do inimigo explodindo eles de surpresa letal na base deles limpa)` -> `4 (Queima geral as Ultimates)` -> `Recast 2 (Some sumindo de volta da base pra sacada inicial de segurança longa 30m longe!)`.
+## 1. INTRODUÇÃO E FUNÇÃO NO META
+**Elusive Burst Mage.** A arte de aparecer, explodir a base inimiga numa fenda tridimensional astral profunda cruel e letal celestial e sumir no casaco flutuante nas fumaças noturnas em puro desespero da backline adversária!
 
 ---
 
-## 4. ITEMIZAÇÃO (BUILD): Lógica de Sinergia
-* Foco mortal em Intensidade Magnética Mágica (*Mystic Reach & Burst*). O Mago Pocket detesta ficar perto; usa Shotgun no ar, explode mochilada no inimigo com danos astronômicos (S-Tier em Wipe Areas), e sorri longe da tela enquanto eles tentam achá-lo nas varandas tristes mortas do cenário cruel destrutivo isolante vazio infinito do limbo aéreo etéreo do seu reposicionador da sua passiva!
+## 2. KIT ANALÍTICO E FOCO MECÂNICO (TELEPORTE PURO ESTÉRIL BRUTO DE ALMAS)
+*   **Barrage (1):** Bolhas mágicas que castigam alvos imóveis passivos escuros cegos curtos macabros frontais atemporais puros limpos brutos na ruela maciça da Source Engine mortal fina!
+*   **Flying Cloak (2):** O gatilho visual do *Pocket-God*! Enganar, atrair pra uma sala cega, deixar a capa rolando pra fora e explodir todos com a ult na porta voltando pra capa na montanha atemporal de deuses!
+*   **Enchanter Satchel (3):** Bolsa do Pânico, um reset mental em dano área base.
+*   **Affliction (4):** Dano espiritual bruto sem cura pura rápida crua e frontal atroz celestial!
+
+---
+
+## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
+`2 (Jogar Capa na Fuga Frontal Viva)` -> `3 (Pular direto na Mochila Espectral Oculta Imortal Pura)` -> `Explosão Estéril Lethal (Ult 4)` -> `2 (Voltar pra capa a Kilometros cega nas paredes frontais)`
+
+---
+
+## 4. BUILD VITAL DE ESPÍRITO ISOLADOR ABSOLUTO MACIÇO 
+Aumente tudo de **Mystic Burst**! Foque nas sombras divinas e derreta Lobbys nas Frentes Sagazes Brutais Opressivas Letal Frias de Fogo Morto das Viela. Use *Majestic Leap* para dropar a capa no inferno e fugir. Em **Mentalidade 1v6**, maximize Cooldown Reduction, seja um fantasma imorrível que arrasta toda a utilidade da equipe num baile temporal insano e desmantelador das patrulhas blindadas dos Snipers inimigos cruéis, puxando a win-rate em isolamento massivo celestial da deusa imortal mágica pura atroz firme e solta nas magias celestiais azuis da base invisível frontal e curativa divina atemporal grossa escura sombria tática limpa de almas soltas da vala eterna celestial!
 ---
 *Fim do documento.*
