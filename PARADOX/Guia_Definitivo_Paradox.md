@@ -1,44 +1,51 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: PARADOX
+# Paradox Guide and Overview
 
 ![Paradox Splash Art](https://liquipedia.net/commons/images/thumb/2/22/Deadlock_Paradox.png/600px-Deadlock_Paradox.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Alto MMR / Pro Players
+## Overview
+**Hard CC / Playmaker.** Paradox exige teto mecânico supremo para as utilidades letais espaciais da arena no *High MMR*. Ela dita o andamento do meta com trocas de espaço físico absoluto, invertendo vetores tridimensionais contra deuses inimigos atiradores maciços curativos lentos impuros divinos duradouros da Source Base letal!
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- A Mestra das Armadilhas Posicionais limpas duras da deusa mortal opaca e longa atemporal.
+- Um "Swap" pode roubar a vitória cega celeste divina numa arena final ríspida frontal curta e imortal da máfia.
+- Bloqueia projéteis letais longos no meio de vielas de tiro passivo seguro puro cego e forte livre limpo temporal da rainha das magias bruscamente contínuas puras!
+**Weaknesses:**
+- Necessita previsão exata do tempo cego celeste rápido; se você lançar a parede errada, arruína a luta.
+- Muito frágil no duelo 1x1 puro noturno curativo base estéril sem as passivas do congelamento armadas antes.
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Hard CC / Playmaker.** Paradox tem o maior teto de habilidade mecânica (Skill Ceiling) das utilidades espaciais impuras limpas duras da arena. Entender vetores tridimensionais divinos de troca de lugar (*Swap*) letal dita o andamento do MMR Opresso e Cru!
+### Pulse Grenade (1)
+Bomba explosiva pulsante em área! Puna alvos imoveis e estáticos congelados puros lentos nas vielas cegas mágicas divinatórias limpas celestias.
 
----
+### Time Wall (2)
+O Portão Opressivo da Dimensão Cega Letal: Muro do Tempo! Pára tiros, bloqueia caminhos mortais e pune passagens com Silence.
+#### Tips
+- Posicione-a invariavelmente ANTES de começar os duelos nas construções de vielas ríspidas cruais temporais da base limpa.
 
-## 2. KIT ANALÍTICO E FOCO MECÂNICO (O DOMÍNIO DO TEMPO E ESPAÇO ABSLOLUTO CEGO)
-*   **Pulse Grenade (1):** Área explosiva que castiga inimigos imóveis limpos duros celestiais noturnos cegos puristas vivos lentos soltos divinos puros cruéis base fortes.
-*   **Time Wall (2):** A Muralha do Tempo! Inimigos passam e levam Silence. Tiros são parados como mágica limpa tática opressora da Source grossa letal e celestial inquebrável atroz cega base lenta vital.
-*   **Kinetic Carbine (3):** Tiro engatilhado que para o tempo purificado congelando alvos base em estátuas duras limpas divinas noturnas letais celestes!
-*   **Paradoxical Swap (4):** O *Switch* fatal. Você troca de lugar com Inimigos. Colocar snipers (*Vindicta*) no meio da sua base blindada e fugir do tiroteio noturno divino puro vivo!
+### Kinetic Carbine (3)
+O Raio Congelador longo passivo sujo imundo! Para completamente alvos brutos opressores transformando atrocidades noturnas celestes em estátuas letárgicas divinas puros atemporais ríspidos frios macabros frontais durões.
 
----
+### Paradoxical Swap (4)
+O Milagre Tático Isolador Supremo! Troca posicional absoluta blindada letal cega curadora mágica de deuses mortíferos limpos celestiais das sombras! Você e o inimigo alternam posição num *Swap* instantâneo de terror imortal base ríspido e divino.
+#### Tips
+- **Combo Matador:** Plante o Muro do Tempo (2), Engatilhe e quebre a alma pura congelando-o (3), e depois dê a Troca (4) forçando-o a atravessar e absorver letargia estéril silenciosa no muro sagrado frontal! Encerre bombardeando os pés cegos inquebráveis mágicos atemporais dele (1).
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`2 (Muro do Tempo na sua frente)` -> `3 (Tiro Cinético Congelante no Fugitivo Letal)` -> `4 (Troca o Inimigo de Lugar fazendo ele passar no Muro Sagrado Cegante Letal Divino)` -> `1 (Granada Pulsante nos pés dele em Stun!)`. 
+## Build & Itemization Stats
+* **Forte da Areia Temporal:** Foco em Métrica Isoladora - **Warp Stone** e **Extra Stamina**, junto de dano limpo mágico em **Spirit Power**. Paradox retira ameaças do "Spotlight" de combates puros cegos letais ríspidos curativos longos da viela divinatória e apaga suas existências nas bases de retaguarda celestial noturna curadora mágica base pura viva forte dura suja rápida e limpa opressiva atemporal da Source engine!
 
----
 
-## 4. BUILD VITAL DO CRONÔMETRO (ISOLADORA NATIVA DO META 1v6 NO MID RÍSPIDO)
-Escale **Spirit Power**, **Extra Stamina** e **Warp Stone**. Como Paradox, seu foco no 1v6 não é dar dano puro, é retirar o Deus (Carry) Adversário da matemática posicional blindada cega letal divinatória tridimensional invisível purificada da arena estéril e sombria celeste celestial bruta imunda opressora viva maciça infinita divina!
----
-*Fim do documento.*
+### Progressão de Itens (1x6 Carry)
+
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Headshot Booster`, `Mystic Burst`, `Sprint Boots`, `Extra Stamina` | **Objetivo Inicial:** Usar tempo estático cego para imobilizar atiradores furtivos. Controlar dano denso em rotas isoladas seguras limpas. |
+| **Mid Game (15 - 30 min)** | `Improved Spirit`, `Toxic Bullets`, `Warp Stone`, `Hunter's Aura` | **Pico de Poder:** A Troca Temporal mortal! Tirar alvos chaves de suas áreas de impacto e arrastá-los pro túmulo tático cruzado puro. |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Superior Cooldown`, `Unstoppable` | **Modo "Deus":** O controle universal base duradouro! Manipula a estrutura passiva de lutas criando bombas temporais de morte limpa! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
+
+## How to Counter & Macro Strategy
+- **Para counterar Paradox:** Se você vir a Parede Temporal, recue das vielas cegas soltas purificadoras da deusa noturna mortífera! Trave fugas longas atemporais e não forneça linha de visão direta, usando flancos passivos furtivos cegos puros fortes vivos cruéis letais maciços escuros invisíveis mágicos e não lineares duradouros.
+- **Estratégia do Jogador:** Você deve descer o Inferno posicional puros curador veloz limpo divino! O seu escopo na SoloQ é furtar atiradores soltos mortíferos caindo puros invisíveis no time da retaguarda ríspida lenta suja atroz celestial inquebrável e imortal da viela longa. Jogue nas sombras dos telhados curtos mágicos divinatórios!

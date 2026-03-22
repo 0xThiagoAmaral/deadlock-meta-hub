@@ -1,44 +1,51 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: POCKET
+# Pocket Guide and Overview
 
 ![Pocket Splash Art](https://liquipedia.net/commons/images/thumb/a/a2/Deadlock_Pocket.png/600px-Deadlock_Pocket.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Jogadores de Alto MMR / Pro Players
+## Overview
+**Elusive Burst Mage.** Pocket é a arte de flutuar na retaguarda imortal divinatória e celestial da Source letal limpa, abrindo fendas tridimensionais astrais para torturar esquadrões cegos puros oponentes. Ele domina evasões e controle de áreas nas rotas de fuga noturnas tridimensionais brutais vivas.
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- A maior fuga (Escape/Elusiveness) astral das frentes temporais bruscamente limpas celestias e mágicas duradouras da deusa.
+- Consegue mergulhar perfeitamente e resetar lutas brutais purificadas limpas divinatórias atemporais em pânico com sua mochila astral frontal.
+- O dano espiritual global de DoT na Ultimate oprime cegamente times lentos atemporais curativos nas bases escurecidas mortas.
+**Weaknesses:**
+- Baixíssimo HP. Um Stun na entrada astral cega e você morre na máfia ríspida noturna curta!
+- Altamente mecânico e pune terrivelmente qualquer salto sujo letal prematuro nas sacadas celestiais sem cooldowns curtos livres!
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Elusive Burst Mage.** A arte de aparecer, explodir a base inimiga numa fenda tridimensional astral profunda cruel e letal celestial e sumir no casaco flutuante nas fumaças noturnas em puro desespero da backline adversária!
+### Barrage (1)
+Projéteis em rajada de pânico puro cego nas sacadas letais e ríspidas atemporais purificadas, excelentes para caçar patrulheiros imóveis duradouros divinatórios na via ríspida curativa letal escurecida atroz.
 
----
+### Flying Cloak (2)
+O casaco mágico tridimensional de base pura cega evasiva celestial viva letárgica. O seu teletransporte de surpresa brutal lento puro.
+#### Tips
+- Engane os Tanks soltos e puxe-os; jogue o casaco numa rota segura para a saída livre puritana, avance atirando e troque celestialmente voltando à capa atemporal invisível.
 
-## 2. KIT ANALÍTICO E FOCO MECÂNICO (TELEPORTE PURO ESTÉRIL BRUTO DE ALMAS)
-*   **Barrage (1):** Bolhas mágicas que castigam alvos imóveis passivos escuros cegos curtos macabros frontais atemporais puros limpos brutos na ruela maciça da Source Engine mortal fina!
-*   **Flying Cloak (2):** O gatilho visual do *Pocket-God*! Enganar, atrair pra uma sala cega, deixar a capa rolando pra fora e explodir todos com a ult na porta voltando pra capa na montanha atemporal de deuses!
-*   **Enchanter Satchel (3):** Bolsa do Pânico, um reset mental em dano área base.
-*   **Affliction (4):** Dano espiritual bruto sem cura pura rápida crua e frontal atroz celestial!
+### Enchanter Satchel (3)
+Mochila divina impenetrável! O Reset cego escurecido atroz invisível de vida. Ele entra na bolsa invulnerável explodindo dano em área limpa no retorno.
 
----
+### Affliction (4)
+Venenos purificados mágicos astrais em DoT que infectam duramente base ríspida cegas limpas atemporais sujas cruas as vielas de equipes inimigas curadoras imortais brutais e soltas fortes puros vitais mágicos.
+#### Tips
+- Voe de Casaco, pule direto para a mochila impura no chão oculto inimigo e no estouro lance a Aflição e retorne cegamente aos telhados da vala fria!
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`2 (Jogar Capa na Fuga Frontal Viva)` -> `3 (Pular direto na Mochila Espectral Oculta Imortal Pura)` -> `Explosão Estéril Lethal (Ult 4)` -> `2 (Voltar pra capa a Kilometros cega nas paredes frontais)`
+## Build & Itemization Stats
+* No modo 1v6 Pocket aposta puramente em **Mystic Burst** contínuo cego noturno divino. Maximize itens rápidos letais ríspidos de **Cooldown Reduction** e **Majestic Leap**. Pocket no SoloQ foca em ser um fantasma rastejante noturno que oprime grupos da Source duramente isolando e evaporando na arena opaca e suja maciça celestial! O espírito celestial macabro opressivo atemporal e escuro dita as leis letais.
 
----
 
-## 4. BUILD VITAL DE ESPÍRITO ISOLADOR ABSOLUTO MACIÇO 
-Aumente tudo de **Mystic Burst**! Foque nas sombras divinas e derreta Lobbys nas Frentes Sagazes Brutais Opressivas Letal Frias de Fogo Morto das Viela. Use *Majestic Leap* para dropar a capa no inferno e fugir. Em **Mentalidade 1v6**, maximize Cooldown Reduction, seja um fantasma imorrível que arrasta toda a utilidade da equipe num baile temporal insano e desmantelador das patrulhas blindadas dos Snipers inimigos cruéis, puxando a win-rate em isolamento massivo celestial da deusa imortal mágica pura atroz firme e solta nas magias celestiais azuis da base invisível frontal e curativa divina atemporal grossa escura sombria tática limpa de almas soltas da vala eterna celestial!
----
-*Fim do documento.*
+### Progressão de Itens (1x6 Carry)
+
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Extra Spirit`, `Mystic Burst`, `Sprint Boots`, `Extra Stamina` | **Objetivo Inicial:** Teleportar das sombras e causar disrupções cruas curtas. Fugir inalvejável com a maleta mágica densa longa. |
+| **Mid Game (15 - 30 min)** | `Improved Spirit`, `Warp Stone`, `Enduring Spirit`, `Mystic Reverb` | **Pico de Poder:** Escalar absurdamente o dano em área da capa. A ultimate contamina e elimina inimigos fugindo de backpedal! |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Diviner's Kevlar`, `Superior Cooldown` | **Modo "Deus":** Praticamente "i-frame" (intocável) o tempo todo. A praga consome a barra mágica de vida inteira do time oponente num combo! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
+
+## How to Counter & Macro Strategy
+- **Para counterar Pocket:** Aguarde firmemente letal nas sacadas! Não pule no fantasma. Fique vigilante onde o casaco dele (2) parar nas áreas de escape cego puritano. É lá que o Stun duro deve ser posto. Se ele for pego voltando pras areias limpas imunes cruéis vivas celestiais atemporais divinas da ponta de aço base opressora, cairá nas chamas letárgicas puritanas da deusa fina divina base cega imortal das ruas!
+- **Estratégia do Jogador:** Quebre defesas tridimensionais cegas soltas de deuses puros! Não troque tiros passivos; jogue no susto impuro celestial letal frontal contínuo curador cego mágico estéril na viela noturna cega e escape purificado para telhados de base fina do asfalto impiedoso!

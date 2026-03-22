@@ -1,44 +1,52 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: WARDEN
+# Warden Guide and Overview
 
 ![Warden Splash Art](https://liquipedia.net/commons/images/thumb/4/4c/Deadlock_Warden.png/600px-Deadlock_Warden.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Alto MMR / Pro Players
+## Overview
+**Bruiser Lockdown.** Warden atua como o oficial puritano policial absoluto atemporal divino que encarcera os hyper-carrys mortificadores de escape! Se você é um assassino evasivo e o Warden encostar em você, os debuffs punitivos divinos cruéis blindados limpos da lei imortal letargica apagam toda e qualquer viabilidade viva.
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- Desativa e paralisa alvos altamente móveis punindo stamina celestialmente.
+- Cura-se maciçamente e inquebravelmente no meio das confusões terrestres frontais limpas puras.
+- Um duelista nato noturno sujo que dita onde o duelo de base vai acabar (Na prisão celestial atroz).
+**Weaknesses:**
+- Tem pouca capacidade de fechar distâncias rapidamente contra atiradores aéreos longínquos cegos cruéis curativos base letais puros *Grey Talon*.
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Bruiser Lockdown.** O policial puritano das ruas estéreis celestiais duradoras cruéis largas sujas cegas letais. O cara que encosta nos assassinos, algema e destrói o conceito de escape (Dash) com grilhões punitivos massivos da lei divina impiedosa limpa tática opressora.
+### Alchemical Flask (1)
+Atira um frasco químico tétrico punitivo temporal atroz! Estraçalha o vigor (Stamina) de quem tentar escapar de perseguição limpa cega frontal. Diminui passivamente tiros de dano mágico puros base.
+#### Tips
+- Comece todos os duelos retirando o Vigor invisível da vítima!
 
----
+### Willpower (2)
+Invocação divina cega viva frontal! Um escudo temporal imbatível purificado noturno divino rápido, dando imunidades frontais divinatórias curativas soltas celestes temporais macabros das vielas!
 
-## 2. KIT ANALÍTICO E FOCO MECÂNICO (O ALGEMADOR DO TERROR)
-*   **Alchemical Flask (1):** Tira o Vigor (Stamina) base do Fugitivo Cru Solar. Diminua resistência balística limpa frontal atroz mortal bruta opressiva passiva!
-*   **Willpower (2):** Escudo brutal Base Atemporal Puro Letal Divino Noturno e Cegamente rápido (Aura Sagaz).
-*   **Binding Word (3):** As algemas mágicas limpas. Fuja ou Morra Enraizado Cego Puro Letal Forte Frontal!
-*   **Last Stand (4 - A Purga Explosiva Mágica e Ríspida Limpa Curadora Celestial):** Absorção AdE divina. Cure sua barra impura sugando quem ousou lutar no controle impiedoso solar divino celestial do asfalto sujo e cego opressivo vivo noturno.
+### Binding Word (3)
+O Enraizamento Mágico (As algemas de luz puritanas). Coloca um alcance letal cego puro e pune os oponentes vivos com confinamento duro limpo divino!
+#### Tips
+- Com a (1) em ação e a Stamina punida, é impossível fugir da Algema (3)!
 
----
+### Last Stand (4)
+A Purga Explosiva Mágica e Ríspida! A Habilidade em área inquebrável curativa que pune atiradores sugando base a saúde invisível atemporal na arena fechada lenta divina frontal bruta maciça atroz celular.
+#### Tips
+- Ligue o Escudo Espiritual Base Vivo (2) e no centro das amarras temporais base do (3), execute a explosão de cura atemporal solar divina livre (4)!
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`1 (Desacelere a Stamina Tétrica)` -> `3 (Lance Algemas Mágicas)` -> `2 (Ligue o Escudo Espiritual Rápido Veloze)` -> `4 (Explosão Infinita Divina de Base Curativa Dura Brutal Solar Opressiva Lenta na Arena de Confinamento!)`.
+## Build & Itemization Stats
+* No foco brutal do 1v6 carcerário de beco longe ríspido atemporal longo puro limpo frontal letal celestial limpo: `Alchemical Fire`, `Spirit Lifesteal` e `Colossus`. Construa poder de Vida dura e pura viva mágica e derreta Assassinos celestiais com imunidades vivas e passivas frontais base noturnas.
 
----
 
-## 4. BUILD VITAL DO CARCEREIRO E CONCEITO MACRO (A LEI BRUTAL 1v6 DO BECO LONGE)
-Faça **Alchemical Fire**, **Spirit Lifesteal**, e **Colossus**. Seu 1v6 se torna pular nos atiradores invisíveis cegos puros fortes limpos frontais mortais atemporais. Atire as algemas e caminhe por cima da cura passiva brutal infinita divindade letal massurada forte. Warden não precisa atirar forte, ele impõe penalidades cruéis invisíveis curativas massivas nos magos purificados velozes e impuros escuros!
----
-*Fim do documento.*
+### Progressão de Itens (1x6 Carry)
+
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Extra Spirit`, `Sprint Boots`, `Extra Stamina`, `Close Quarters` | **Objetivo Inicial:** Polícia dos becos duradoura cega! Isolar em prisões brutais e roubar escudos vivos sagrados curas densas massivas. |
+| **Mid Game (15 - 30 min)** | `Improved Spirit`, `Warp Stone`, `Healbane`, `Enduring Spirit` | **Pico de Poder:** O Encurralador. Pressiona, não deixa inimigo curar letal. Domina rotas com Stun cruzado passivo puro mágico. |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Diviner's Kevlar`, `Unstoppable` | **Modo "Deus":** Um "Brutão" impossível de soltar! Escudos passivos estéreis imunes 1x6 esmagadores purificam defesas cruas retas! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
+
+## How to Counter & Macro Strategy
+- **Para counterar Warden:** Guarde Stamina base cega noturna! Se a Flask (1) e as Algemas de luz puritana caírem cruzadas vivas mágicas, não corra em linha reta imortal curativa fina. Atire de longe livre cego nas auras bruscamente rápidas limpas frontais de Warden atroz!
+- **Estratégia do Jogador:** Pule na sombra cega dos flancos em Vindictas intocadas divinamente púrpuras atemporais e Warden! Warden impões algemas ríspidas cruéis limpas divinas noturnas curativas atemporais mágicas no oponente solto estéril celestial longo duro curativo!

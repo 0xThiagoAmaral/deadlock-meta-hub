@@ -1,55 +1,55 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: GREY TALON
+# Grey Talon Guide and Overview
 
 ![Grey Talon Splash Art](https://liquipedia.net/commons/images/thumb/7/70/Deadlock_Grey_Talon.png/600px-Deadlock_Grey_Talon.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite & Especialista em Deadlock  
-> **Público-Alvo:** Jogadores de Alto MMR / Pro Players
+## Overview
+**Artillery / Poke Sniper.** Um mago franco-atirador disfarçado de fuzileiro naturalista. O estilo do Grey Talon executa times no mapa através de um assedio infinito e purificado das alturas, mantendo-se relativamente intocável pelas ruas.
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo, Power Spikes e Função no Meta](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico: Decomposição de Habilidades](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos Executáveis (Input-by-Input)](#3-combos-executáveis-input-by-input)
-*   [4. Itemização (BUILD): Lógica de Sinergia](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- Excelente presença e alcance *AoE* longo.
+- Controle de espaço superior devido as armadilhas no solo e poder de *Snipe*.
+- Grande capacidade de finalização global (Ultimate).
+**Weaknesses:**
+- Baixa mobilidade horizontal e altamente vulnerável a investidas diretas (*Engages* fechados).
+- Muito dependente do teto e posicionamento aéreo.
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Artillery / Poke Sniper.** Um mago disfarçado de fuzileiro naturalista. Diferente de *Vindicta* que mata de perto, Grey Talon executa times no mapa focado num assédio infinito passivo purificado de zonas gigantes isolantes da artilharia aérea (Rain of Arrows) mantida intocável nos céus cegos.
+### Charged Shot (1)
+Flecha canalizada com Dano em Área (*AoE*) e alcance quilométrico.
+#### Tips
+- Use a carga rápida para causar dano constante em combate ou carregue no máximo atrás de coberturas para explodir inimigos distraídos no fim das rotas!
 
----
+### Rain of Arrows (2)
+Salto para flutuação (*Hover*) passiva aérea. Despeja uma cortina letal de chuva de chumbo bônus sobre os inimigos, revelando e atacando sobre coberturas convencionais.
+#### Tips
+- Ninguém costuma olhar pra cima em becos apertados! Force o oponente a gastar dashes no chão enquanto você fica incólume nos céus de supresa.
 
-## 2. KIT ANALÍTICO (Foco Mecânico)
-*   **Charged Shot (1):** Flecha canalizada com Dano AoE e alcance quilométrico.
-*   **Rain of Arrows (2):** Pulo para hover passivo. Despeja uma cortina letal de chumbo de arco bônus de cima pra baixo, revelando frestas das ruas escondidas.
-*   **Immobilizing Trap (3):** Prende Flankers (Assassinos) no piso. Bloqueio mental imoral de calhas base de fuga das janelas.
-*   **Guided Owl (4) - A Coruja Assasina:** Míssil teleguiado *AoE*. Atinja inimigos escondidos numa sala há três bairros de distância purificada! Se abater heróis que curam, o bônus final reseta as esperanças de vitória tática dura e cega mortal do oponente com stun massivo global temporal.
+### Immobilizing Trap (3)
+Armadilha de solo que prende *Flankers* e bloqueia calhas base de janelas tridimensionais do mapa.
+#### Tips
+- Plante a armadilha imediatamente nas suas próprias rotas normais de fuga ou abaixo da sua flutuação para travar avanços surpresas.
 
----
+### Guided Owl (4)
+A Coruja Assassina. Um míssil teleguiado mágico que causa grande dano e pode explodir esconderijos do outro lado do mapa. Abater heróis garante bônus absolutos de poder global permanente.
+#### Tips
+- Combo mestre: Crie armadilhas recuadas, suba nos céus caindo uma chuva de flechas longas, e se algúem fugir enfraquecido pela rota oculta, ative a Coruja Assasina como "Execution" de surpresa!
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-```mermaid
-graph TD
-    A[A Chuva do Condor de Três Cabeças] --> B(3: Setar Armadilha na sua Fuga Tática)
-    B --> C(2: Voo Celestial Rápido de Surpresa Frontal)
-    C --> D(Chuva de Tiros de Fogo AdE na Retaguarda Lenta Dourada)
-    D --> E(4: Ultimate da Coruja na Cabeça do Fugitivo Final Isolado Livre)
-```
+## Build & Itemization Stats
+* **Foco em Spirit Power Opressor:** Priorize `Improved Spirit`, `Warp Stone` (para escape rápido aéreo) e `Diviner's Kevlar`. Maximizar seu Peso Mágico cria as condições para a Coruja se tornar uma bomba nuclear letal base.
+* **Build 1v6 (Carregar a Partida):** Se precisar colocar o time nas costas, foque em dano mágico bruto infinito e sobrevivência! Priorize `Mystic Reverb` (aplicado no Charged Shot), `Boundless Spirit` e `Superior Cooldown`. Para sobrevivência inquebrável, faça `Leech` (roubo de vida mágico estéril passivo massivo) e `Unstoppable` (para evitar que invadam seu espaço aéreo com *Stuns*). O truque é farmar execuções com a Coruja Guardiã no início do jogo para obter poder de Spirit permanente, e depois derreter o time inimigo à distância antes mesmo deles tocarem o chão!
 
----
+### Progressão de Itens (1x6 Carry)
 
-## 4. BUILD VITAL (Espírito Opressivo Longo)
-*Improved Spirit*, *Warp Stone*, *Diviner's Kevlar*. Maximize o peso mágico (*Spirit Power*) de suas ferramentas. A coruja se torna uma bomba nuclear se não houver resistência no oponente!
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Extra Spirit`, `Mystic Burst`, `Infuser`, `Sprint Boots`, `Extra Stamina` | **Objetivo Inicial:** Assédio pesado na rota com *Charged Shot*, farmar tropas de longe e mobilidade inicial para evitar os primeiros *ganks*. |
+| **Mid Game (15 - 30 min)** | `Improved Spirit`, `Mystic Reverb`, `Warp Stone`, `Enduring Spirit`, `Improved Cooldown` | **Pico de Poder em Área:** Escalar o dano mágico em área de forma ridícula para punir grupos, além de garantir o *Warp* para reposicionamento ágil. |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Diviner's Kevlar`, `Superior Cooldown` | **Modo "Deus" Opressor:** Fechar a invulnerabilidade de 1x6. O roubo de vida divino do *Leech* te cura passivamente de forma brutal enquanto você atira. |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
 
----
-
-## 5. MACRO E O CONCEITO 1v6 (O Deus Alado do Mid)
-O seu 1v1 ou 1v6 é focado na fobia espacial dos jogadores e atiradores base cegos mortais limpos celestiais das valas abertas. Jogue de ponta de *lane* cega solta invisível. Force Abrams a gastar os (Dash) nele e ulte livre! Ninguém olha pra cima nas ruas apertadas lentas duras cegas celesitais impuras!
----
-*Fim do documento.*
+## How to Counter & Macro Strategy
+- **Para counterar Grey Talon:** Grey Talon detesta heróis velozes de aproximação que ignoram a artilharia horizontal. A melhor defesa é *quebrar a linha de visão* e pular rápido quando ele desce da habilidade (2) e tem seus recuos travados. 
+- **Estratégia do Jogador:** Jogue sempre de longe nas abas cegas ocultas das *side-lanes*. Seu 1v6 é baseado em fobia espacial. Voe, bata livre, evite confrontos no asfalto apertado!

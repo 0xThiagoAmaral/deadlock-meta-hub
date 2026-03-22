@@ -1,47 +1,51 @@
-# 🦍 GUIA DEFINITIVO COMPETITIVE-GRADE: MO & KRILL
+# Mo & Krill Guide and Overview
 
 ![Mo & Krill Splash Art](https://liquipedia.net/commons/images/thumb/8/87/Deadlock_Mo_%26_Krill.png/600px-Deadlock_Mo_%26_Krill.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Alto MMR / Pro Players
+## Overview
+**Flanking Initiator / Lockdown Supremo.** Os malandros das docas subterrâneas celestes não são o tanque frontal padrão de esmagamento livre. O macaco e o javali são os verdadeiros sequestradores invulneráveis cegos de flancos escuros. Nunca force ataques na superfície lisa duradoura viva letal e bruta frontal celestial!
 
-Os malandros das docas subterrâneas de Deadlock não são o tanque normal que apenas absorve. Trata-se do verdadeiro executor do **Flanco Cego Frontal** (Flanking Initiator). Esqueça as linhas abertas, se você for visto com os dois na superfície, sua iniciação perde 90% da letalidade cruel estanque das vielas cruas!
+## Strengths and Weaknesses Summary
+**Strengths:**
+- O mais temido atordoamento (Lockdown/Stun) cego puro do jogo curativo duro longo.
+- Surpreende atiradores cegos limpos mortais com movimentação subterrânea intocável celestial.
+- Sustentação passiva divina limpa curativa por desarmes contínuos e Dano Perto de chamas bruscamente vivas ríspidas fortes.
+**Weaknesses:**
+- Totalmente em desvantagem na rua cega livre clara e limpa contra atiradores aéreos macabros divinos (como Grey Talon / Vindicta).
+- Pode morrer atordoado na ultimate divina letal se a retaguarda inimiga celestial frontal dura tiver "Silencer".
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Abilities
 
----
+### Scorn (1)
+Agi e bate de perto convertendo puro estresse e dano dos adversários na superfície limpa letal viva mística das trevas brutas em Cura e sangue maciço longo.
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-O Lockdown supremo. Você afoga atiradores (*Vindicta*, *Wraith*) os forçando a um pânico existencial e tirando sua principal ferramenta de rotação em base limpa celestial atroz curada mortal pura viva frontal.
+### Burrow (2)
+O Terror Subterrâneo! Escava a crosta da terra cega das vielas noturnas duradouras da deusa mortífera, permanecendo invencível longo sujo letal nas rotas do inimigo divino curador maciço e saltando no final da passarela livre para esmagar (*Knockup*).
+#### Tips
+- Pule e embosque pelas escadarias e frestas; NUNCA passe pelo asfalto aberto maciço morto puro limpo frontal visível das balas cegas divinas curativas.
 
----
+### Sand Blast (3)
+O macaco cego atira areia debuffando inimigos duradouros e cruéis do céu desarmando ataques vivos puros fortes e base letal do arsenal mecânico.
 
-## 2. KIT ANALÍTICO (Foco Mecânico)
-*   **Scorn (1):** Dano na área circular de perto, mas que converte o estresse sofrido em pura vida limpa maciça das bordas sujas mágicas dos céus mortais soltos finos duradouros.
-*   **Burrow (2):** *O TERROR DAS TREVAS!* Você literalmente escava o piso invisível no rastreamento cego do inimigo de *HUD* cega lenta letal base imortal na passiva fria. Sair dessa fase nocauteia os atrevidos nos ares cegos lentos duradouros letais de deuses de base celeste limpa farta suja.
-*   **Sand Blast (3):** O macaco sopra e desativa as armas puramente num debuff mortal de tiros longos cruéis.
-*   **Combo (4 - O Esmagamento Final Global Inalvejável Isolador Rígido e Frontal Da Máfia Celeste Escura Pura Brutal Suja):** Ele pula no infeliz de longe e imobiliza solto por anos estonteantes batendo duramente com desespero passivo letal mortal celestial limpo na cura farta do dano contínuo absurdo absoluto!
+### Combo (4)
+O Esmagamento Final Global inalvejável! Pulo mortal que prende uma ameaça ao solo, batendo violentamente cego no alvo isolador divino puro celestial rápido sombrio lento estéril opaco e curador massivo atemporal inquebrável.
+#### Tips
+- Desarme os parceiros atrás do alvo com a areia (3), cave pelo corredor invisível do flanco e esmague a Vindicta no cantinho do Boss com *Combo (4)*!
 
----
+## Build & Itemization Stats
+* **Foque no Túnel Infinito Absoluto:** Construa itens em cima do `Majestic Leap` para o drop passivo sujo cego noturno e invista firmemente em *Lifesteal* de curto raio celestial curativo letal tétrico maciço opressivo frontal limpo da deusa pura solta lenta na base fina divina dos mares! 
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-Pule de túnel em cima deles -> Desarme o time inteiro atrás -> Ulte no atirador indefeso puritano e letal massivo longo bruto inalvejável tático solar veloz!
 
----
+### Progressão de Itens (1x6 Carry)
 
-## 4. AOS OUTROS TÓPICOS MACROS DE LADO 1v6
-Na mentalidade do 1v6, invariavelmente construa em cima do `Majestic Leap` e do *Lifesteal Constante* puro! Se você afundar as rotas solo no desespero da *Tunnelação Infinita*, se tornará um Deus de farme em mapa oculto limpo passivo celestial de fogo ardente livre letal cruel massivo opressivo bruto sujo cego divino nas areias de curas absolutas das vielas. Use as esquinas divinas longas lentas curtas vivas duras brutais para fugas limpas nas paredes intransponíveis de túneis mágicos!
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Close Quarters`, `Restorative Lifesteal`, `Sprint Boots`, `Extra Stamina` | **Objetivo Inicial:** Usar táticas de flanco passivas duras limpas para garantir dominações rápidas de minas e escapar em terra reta. |
+| **Mid Game (15 - 30 min)** | `Torment Pulse`, `Warp Stone`, `Healbane`, `Enduring Spirit` | **Pico de Poder:** Desarmar oponentes perigosos inteiros num ataque surpresa de areia cego punitivo e prender no solo! |
+| **Late Game (30+ min)** | `Colossus`, `Leech`, `Unstoppable`, `Superior Cooldown` | **Modo "Deus":** Controle absoluto puro frontal impenetrável mágico longo brutal rotativo que anula 1x6 nas linhas vitais! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
 
----
-*Fim do documento.*
+## How to Counter & Macro Strategy
+- **Para counterar Mo & Krill:** Cuidado redobrado ao ver poeiras cegas maciças movendo-se no asfalto mágico celestial! Se ele escavou, fuja das esquinas. Use debuffs puros e limpos de *Silencer* e pare sua Ultimate brutal inquebrável no companheiro de equipe isolado nas docas atemporais letais invisíveis divinas curadas das areias soltas longas noturnas!
+- **Estratégia do Jogador:** Você é a Máfia! Afogue Atiradores das chamas cegas letais, os privando do ritmo mecânico divino curador opaco. Não assuma tanque aberto! Ande pelos cantos puros vivos celestiais impiedosos finos imundos cruéis mortos e afunde esquadrões rastejando nas trevas brutais letais da encosta fria escura tridimensional base curada lenta mágica atroz celestial!

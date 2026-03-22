@@ -1,49 +1,52 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: INFERNUS
+# Infernus Guide and Overview
 
 ![Infernus Splash Art](https://liquipedia.net/commons/images/thumb/1/15/Deadlock_Infernus.png/600px-Deadlock_Infernus.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Jogadores de Alto MMR / Pro Players
+## Overview
+**Run-and-Gun Bruiser de DoT (Damage over Time).** Agressividade materializada pura em fogo rápido contínuo. Infernus não para um segundo; desintegra e derrete tanks na contagem sangrenta por carrapatos ardentes velozes!
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- Monstruosidade letal na frente de combate e perseguição ativa infinita.
+- Dano constante passivo espalhadamente gigantesco em áreas concentradas.
+- Disrupção total garantindo a dispersão rápida de esquadrões inimigos focados num só alvo.
+**Weaknesses:**
+- Vulnerável antes de acumular velocidade ou lifesteal mágico completo.
+- Suceptível a kiting massivo contínuo e danos frontais longos sem chance de gap-close.
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Run-and-Gun Bruiser de DoT.** A agressividade materializada. Infernus não para e desintegra tanques na contagem sangrenta do tique do fogo frontal! 
+### Catalyst (1)
+Uma dose de óleo combustível que dobrará o estrago imediato do rastro de fogo passivo ardente pela via!
 
----
+### Flame Dash (2)
+Infernus acelera virando um cometa flamejante que deixa uma trilha de desastre mortal e cega!
+#### Tips
+- Ferramenta absoluta principal de disrupção de combate (Engage letal) e dispersão ativa da defesa dura temporal inimiga.
 
-## 2. KIT ANALÍTICO E FOCO DE COMBATE (A DISRUPÇÃO ÍGNEA)
-*   **Catalyst (1):** Óleo combustível que dobra o estrago da passiva base nas ruas curtas cegas ríspidas atemporais de magias purificadas letais na neblina!
-*   **Flame Dash (2):** Vira um cometa infernal de rastro de fogo opressivo! C.C Absoluto de desorganização!
-*   **Afterburn (3):** Acumula passiva no fogo base atirável mortal.
-*   **Concussive Combustion (4 - O Salto Final):** A explosão em área! Ligação longa pra estourar suportes imortais na cara estéril cega letal longa da via impura grossa rápida na ponte isoladora dura de chamas ativas imensas na selva crua!
+### Afterburn (3)
+Guarda as passivas no fogo base atirável cru, intensificando as balísticas. 
 
----
+### Concussive Combustion (4)
+Uma grande explosão frontal e tridimensional demorada em massa!
+#### Tips
+- Combo mestre: `Dash (2)` entrando letal no time, já *ligando o Cumbustão (4)* antes mesmo de alcançar a multidão, explodindo de surpresa no centro com imenso controle brutal em *Stuns*, seguindo do Catalyst (1) e chuvas de fogo passivo para exterminar sobreviventes puritanos lentos.
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`Dash 2 (Ignite)` -> `Ligar a Cumbustão 4 (Antes de entrar na multidão)` -> `Pular no Meio da Multidão com a Ultimate Explodindo em Animação Surpresa` -> `Garantir os Stuns e Aplicar o 1!` 
+## Build & Itemization Stats
+* **A imortalidade do Fogo Vital:** O foco para Infernus Late Game é a combinação `Toxic Bullets` seguido do `Lifesteal Infinito (Leech)`. Ele limpa as rotas espalhando sua chama infinita e varrendo as defesas.
+* `Ricochet` quebra agrupamentos, levando o poder aos limites e aplicando `Afterburn` purificado cruzado para o time adversário inteiro simultaneamente em ruas curtas.
 
----
 
-## 4. BUILD VITAL (O FOGO DA VIDA IMORTAL CRUEL LENTO)
-*Lifesteal Infinito!* **Toxic Bullets** + **Leech**! Varrer equipes imortais no Late!
+### Progressão de Itens (1x6 Carry)
 
----
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Extra Spirit`, `Sprint Boots`, `Extra Stamina`, `Headshot Booster` | **Objetivo Inicial:** Acumular passiva de chamas, limpar ondas com fire dash e escalar dano gradativamente em segurança. |
+| **Mid Game (15 - 30 min)** | `Toxic Bullets`, `Ricochet`, `Mystic Reverb`, `Warp Stone` | **Pico de Poder:** Quebra de armadura severa. O ricochete espalha o fogo de forma catastrófica por todo o time inimigo! |
+| **Late Game (30+ min)** | `Leech`, `Glass Cannon`, `Boundless Spirit`, `Unstoppable` | **Modo "Deus":** Sustento infinito e chamas letais cruzadas. Com Leech, você purifica sua morte e purga times vivos! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
 
-## 5. MACRO E O CONCEITO 1V6
-O plano pra jogar isoladamente é rodar o **Ricochet** na construção pra acender a passiva base celestial em 6 caras ao mesmo tempo num choque elétrico opressivo purificado letal! Destruir a composição adversária numa ruela curta é seu prêmio nas táticas massivas escuras limpas cruéis frontais atemporais do mapa do submundo imortal estéril lento divino e veloz na cara pura e bruta celestial!
----
-*Fim do documento.*
+## How to Counter & Macro Strategy
+- **Para counterar Infernus:** Aplique reduções de cura passivas duradouras (*Healbane*, *Decay*) desde os cinco primeiros minutos de jogo. Trave a mobilidade brutal dele (Stuns seguidos) assim que o `Concussive Combustion` terminar de carregar! Mantenha a luta na escuridão livre espalhada, não em corredores estéreis curtos cruéis onde as chamas rebatidas te sugam vivo de base passiva dura!
+- **Estratégia do Jogador:** Voe pelo centro! O poder brutal de Ricochete te permite anular flancos espalhando as labaredas sem parar e nunca voltando para curar, vivendo no sustento sagrado noturno da Fonte Fria do fogo impuro letal durador!

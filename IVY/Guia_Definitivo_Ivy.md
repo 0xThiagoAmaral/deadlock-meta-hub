@@ -1,44 +1,53 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: IVY
+# Ivy Guide and Overview
 
 ![Ivy Splash Art](https://liquipedia.net/commons/images/thumb/8/87/Deadlock_Ivy.png/600px-Deadlock_Ivy.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Alto MMR / Pro Players
+## Overview
+**Bruiser Healer / Utility Air-Drop.** O suporte tático supremo com simbiose balística. Ivy é a melhor transportadora tática pura; sua maior força reside em içar artilharias pesadas (espadachins ou atiradores lentos e estáticos como Haze ou Seven) para entregá-los na extremidade oculta da retaguarda inimiga como uma verdadeira bomba atômica celestial!
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- Utilidade impiedosa de reposicionamento global.
+- Consegue manter suportes e carregadores intocáveis através das taxas de bônus divinos (Fire Rate limpo).
+- Possui excelente sobrevivência tática inquebrável como "Bruiser".
+**Weaknesses:**
+- Extremamente atrelada e focada no carregador passivo (sincronismo dependente de aliados).
+- Foco fácil quando sua estátua estéril defensiva termina de atuar no solo da morte.
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Bruiser Healer / Utility Air-Drop.** O suporte tático purista. Ivy carrega atiradores (como Haze/Seven) e os dropa perfeitamente na *backline* como uma bomba atômica celestial. 
+### Kudzu Bomb (1)
+Área gigante verdejante bloqueadora de chokepoints de raízes estrondosas e ríspidas purificadoras de lentidão.
+#### Tips
+- Trave recuos mágicos dos perseguidores e feche defesas nas torres de base!
 
----
+### Watcher's Covenant (2)
+O Vínculo Mágico das almas de pedra pura de bônus! Aumenta bruscamente a taxa de dano base rápido *Fire Rate* curador atemporal massivo.
+#### Tips
+- Jamais pare de canalizar os atiradores passivos seguros!
 
-## 2. KIT ANALÍTICO E FOCO MECÂNICO (A SIMBIOSE LETAL DE PEDRA VIVA)
-*   **Kudzu Bomb (1):** Área gigante bloqueadora ríspida limpa.
-*   **Watcher's Covenant (2):** Vínculo que aumenta as taxas base e o Fire Rate limpo maciço eterno vivo cego da balística dura da Source.
-*   **Stone Form (3):** A estátua estéril! Cura ela mesma enquanto causa um Stun Massivo AdE de base purificada letal macabra no cimento inalvejável tático limpo!
-*   **Air Drop (4):** Puxa e Iça Aliados soltos. Esmaga eles de volta numa redoma silenciosa estrondosa massurada nas torres ocultas!
+### Stone Form (3)
+A cura total de si mesma impenetrável celestial. Causa instantaneamente um forte Stun de Área (AoE) contundente passivo no impacto da queda da estátua estéril invisível!
 
----
+### Air Drop (4)
+A ferramenta ultimate de re-localização global pesada! Agarra o tanque / mago aliado bruto e voa veloz pra esmagá-los no teto opressor letal cego nas linhas de frente de equipe do asfalto impuro noturno mortal cego.
+#### Tips
+- **O Resgate/Ataque:** Puxe aquele Seven ou Infernus do flanco, mire com controle total da mira 3D na backline da Vindicta inimiga estática, e afunde com força bruta solta cega letal de queda impiedosa estéril duradoura com silêncios mortais e vínculos vitais cruzados de base dura!
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`4 (Puxe seu Infernus/Abrams Base)` -> `Mire na Backline Cruel Estéril (Vindictas e Snipers isolados)` -> `Drop Cego (Ativa o Stun)` -> `2 (Vincule o Atirador na Zona Sangrenta Limpa)`.
+## Build & Itemization Stats
+* **Foco no voo simbiótico tático:** `Rescue Beam` e `Inhibitor` para enfraquecer oponentes estáticos caindo. Ivy limpa torres de cura base construindo total resistência para se manter ditando ritmos dos Drop-Bomb inquebráveis vitais de sua *Stone Form*.
 
----
 
-## 4. BUILD VITAL DE SIMBIOSE E FOGO (1v6 FOCADO EM SOBREVIVER CÉU LIMPO)
-`Rescue Beam` e `Inhibitor`. Ivy na SoloQ precisa de uma tática limpa de invulnerabilidade pura tétrica blindadora para tankar e estunar com o *Stone Form* purificado nas valas! Lembre-se, Ivy carrega os jogos ditando ondem as Teamfights começam nos mapas tridimensionais célebres celestiais vivos curativos limpos da Fonte base mortificar!
----
-*Fim do documento.*
+### Progressão de Itens (1x6 Carry)
+
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Extra Spirit`, `Extra Charge`, `Sprint Boots`, `Infuser` | **Objetivo Inicial:** Assédio de longe bloqueando avanço contínuo. Limpar ondas em segurança debaixo das defesas. |
+| **Mid Game (15 - 30 min)** | `Warp Stone`, `Improved Spirit`, `Rescue Beam`, `Enduring Spirit` | **Pico de Poder:** Ferramenta de salvamento puro! Escudos brutos, reposicionamento total de alvos estáticos amigos nas áreas duras. |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Unstoppable`, `Colossus` | **Modo "Deus":** Invencibilidade cega na estátua. Ela cai do céu calando e stunando toda força opressora do mapa no 1x6! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
+
+## How to Counter & Macro Strategy
+- **Para counterar Ivy:** Separe ativamente Ivy de seu alvo de pacto. Compre Corta-Curas pesados (Healbane). Trave-a pelo céu antes de que caia nos telhados impiedosos macabros nas torres curtas e abertas estéreis do asfalto frontal duradouro bruto de *Late Game* letal opressor livre!
+- **Estratégia do Jogador:** Você dita as teamfights da SoloQ de cima pra baixo solta invisível. Salve quem não sabe se portar ou posicione um mago agressivo no seio das estruturas escuras cegantes nas vielas, dominando as rotas da escuridade pura de Deadlock estéril mágico noturna!

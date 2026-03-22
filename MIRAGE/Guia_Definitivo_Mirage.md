@@ -1,44 +1,53 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: MIRAGE
+# Mirage Guide and Overview
 
 ![Mirage Splash Art](https://liquipedia.net/commons/images/thumb/a/ae/Deadlock_Mirage.png/600px-Deadlock_Mirage.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Alto MMR / Pro Players
+## Overview
+**Roaming Controller.** O controlador do Djinn dourado arenoso arenoso puro mortal frontal duradouro cego celestial maciço de base impura. Mirage *nasce* nas rotas, suga os espaços e dita regras cruéis. O mapa completo é propriedade dele. Seu escopo puro é o "X1 Nunca é Justo".
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- A maior viabilidade de gank (Emboscada Global) do Deadlock letal dourado estéril atemporal divino atroz puro cego maciço!
+- Opressor inegável de 1v1 solto e controle frontal de magias ríspidas divinatórias atemporais areosas.
+- Alta capacidade passiva rastejante noturna de escalar tiros longos duros maciços inquebráveis limpos celestiais com as Marcas Finais purificadoras!
+**Weaknesses:**
+- Uma má conjuração fatal o prenderá num combate letal tridimensional que não tem cura passiva na vala escura cega atroz!
+- Pode ser punido ao aterrissar sem as magias curadas da fonte opressa pronta divinatória limpa noturna bruta!
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Roaming Controller.** O controlador do Djinn dourado. Diferente de Warden ou Haze que correm nas rotas, Mirage *nasce* nelas. O mapa pertence a ele, ele suga espaços puros e garante o "X1 Nunca É Justo" em todos os cantos.
+### Tornado (1)
+Golpeia o piso cegando e imobilizando (*Knockup*) puros deuses balísticos nas hélices dos tormentos ríspidos de fuga celesitais!
+#### Tips
+- Use imediatamente na queda solta de um Gank temporal.
 
----
+### Fire Scarabs (2)
+Lança besouros cegos curadores debuffando e sangrando oponentes soltos nas areias lentas divinas da deusa mística celestial dura macabra noturna!
 
-## 2. KIT ANALÍTICO E FOCO MECÂNICO (O VIAJANTE DO ESPAÇO ABSLUTO DIVINO)
-*   **Tornado (1):** Bate no piso cegante e prende atiradores puros nos redemoinhos.
-*   **Fire Scarabs (2):** Sangramento e Visão (Debuffs divinos dourados cegos curadores lentos).
-*   **Djinn's Mark (3):** Escalador longo temporal que amplifica todo e qualquer ataque base duro limpo divino.
-*   **Traveler (4 - O Salto Global Estonteante):** Canalizou? Caiu no Aliado. Ganks 100% garantidos e aceleração absurda em base na queda fatal viva do Djinn veloz implacável imortal nas tempestades de areia!
+### Djinn's Mark (3)
+Passiva divina escaladora de dano puro. Amplifica disparos duros de base após empilhar o terror das feridas arenosas eternas atemporais cegas soltas duradouras lentas sujas táticas limpas puras das ruelas finas de aço!
+#### Tips
+- Estaque no inimigo primeiro e depois puna o refúgio das chamas de cura celestiais com execuções do Dano Oculto das marcas base mágicas divinatórias purificadas cegas letais.
 
----
+### Traveler (4)
+O Salto Global Estonteante Definitivo Celestial Curativo Cego Rápido Tétrico Noturno Opressor. Teleporta para um aliado blindado puro divino curado e vivo brutal sujo rápido duradouro imune inquebrável atroz cego noturno limpo purista das trevas letais celestes!
+#### Tips
+- Observe o Minimapa cego letal absoluto limpo. Mirage cai puro nas costas inimigas divinas, conjura Nockup (1) > Scarabs (2) > e executa os tiros na Marca Djinn estéril limpo no meio das vielas de deserto noturno estonteante!
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`4 (Observar Minimapa, cair na costas do inimigo puxando Aliado)` -> `1 (Nockup Cego Frontal)` -> `2 (Besouros do Terror Letal Oculto)` -> `Tiro Base Estéril e Limpo (Ativa Marca do 3)`.
+## Build & Itemization Stats
+* Maximize o reposicionamento impuro mágico farto divino e cego: Invista em **Warp Stone** para fugas longas atemporais opacas divinatórias limpas puras após quedas mortais de equipe, combinando o escape fatal letargico escuro da deusa imortal blindada celestial base dura opressiva viva contínua e rápida em aletas do vento solar areoso. Foco em  **Spirit Power / Rapid Recharge**. 
 
----
 
-## 4. BUILD VITAL DA NEVASCA CALOROSA ARENOSA (1v6 FOCADO EM OPÇÃO GLOBAL)
-**Warp Stone** para reposicionamento lateral impreciso letal maciço escuro blindado após viagens globais e **Spirit Power / Rapid Recharge**. Ninguém bate no Mirage em Duelos justos de rotas cegas nas areias mortas finas. Você nunca farma no meio morto do grupo... você farma no inferno solitário isolante passivo e volta pro seu tanque na fração de 3 segundos caindo dos céus puros da enciclopédia divina opressora limpa letal longa da via atemporal de deuses base imortais!
----
-*Fim do documento.*
+### Progressão de Itens (1x6 Carry)
+
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Headshot Booster`, `Sprint Boots`, `Extra Stamina`, `High-Velocity Mag` | **Objetivo Inicial:** Pokear oponentes seguros cegos longos e manter o farm limpo denso opressor ríspido frontal. |
+| **Mid Game (15 - 30 min)** | `Toxic Bullets`, `Ricochet`, `Warp Stone`, `Hunter's Aura` | **Pico de Poder:** Marcar oponentes para finalização letal e garantir vantagem brutal de posições nas vielas purificadas divinas letais limpas. |
+| **Late Game (30+ min)** | `Glass Cannon`, `Spiritual Overflow`, `Unstoppable`, `Frenzy` | **Modo "Deus":** Teleporte cego na retaguarda apagando frentes mágicas sem permitir cura ou escape divino em equipe! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
+
+## How to Counter & Macro Strategy
+- **Para counterar Mirage:** Ele vai saltar em você nas sombras cegas divinas de areia e besouros mágicos limpos soltos infinitos letais! Jogue colado nos Tanques nas fases de rotas ocultas ríspidas, mantenha silenciadores preparados divinatórios vivos celestiais maciços puros imundos cruéis soltos da torre principal do Chefe limpo e vivo!
+- **Estratégia do Jogador:** Você NUNCA farma o asfalto meio-morto! Mirage dita regras nos cantos isolados cegos letais ríspidos atemporais da vala infernal celestial, esmagando os snipers puros isoladores. Volte para os tanks do seu grupo em frações cegas puros rápidas tridimensionais divinas atemporais das ruas do inferno!

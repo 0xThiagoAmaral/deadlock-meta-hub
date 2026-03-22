@@ -1,81 +1,55 @@
-# ❄️ GUIA DEFINITIVO COMPETITIVE-GRADE: KELVIN
+# Kelvin Guide and Overview
 
 ![Kelvin Splash Art](https://liquipedia.net/commons/images/thumb/1/1f/Deadlock_Kelvin.png/600px-Deadlock_Kelvin.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Alto MMR / Pro Players
+## Overview
+**High-Ground Mago / Zone Control.** Kelvin não é apenas um "Suporte"; ele manipula terrenos celestiais das estruturas base de gelo físico, alterando completamente a arquitetura de combate do mapa inteiro num instante passivo.
 
-Kelvin não é apenas um "Support". Ele é o **Mestre do Controle de Terreno** (Zone Control). A capacidade de erguer uma *Dome* inquebrável altera as regras físicas do mapa e isola ameaças letais ou garante objetivos como o Mid Boss. A diferença de um Kelvin Master é onde ele deposita o Gelo.
+## Strengths and Weaknesses Summary
+**Strengths:**
+- Cria caminhos intransponíveis alteradores de verticalidade pura de locomoção.
+- O maior debuff opressor constante bruto do jogo tridimensional celestial: anula a força agressiva balística (Lentidão de Tiros e Movimento).
+- Isola perfeitamente ou absorve ultimates soltas de times completos letalmente fortes cegas com a Cúpula no final.
+**Weaknesses:**
+- Baixa resiliência corpo-a-corpo massiva fora do Escudo Global.
+- A Ultimate gélida em um posicionamento ruim pode causar desastres e salvar os oponentes das agressividades de aliados base puros cruéis noturnos estéreis longos.
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca de Vídeos](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Abilities
 
----
+### Frost Grenade (1)
+A explosão massiva cega atroz no early game divino; tira vida agressiva em cone livre letal.
+#### Tips
+- Lenta alvos bruscamente para engajes imediatos nos farms lentos macabros frontais das vias de ruas de gelo sagrado.
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-O *High-Ground Mago*. Kelvin força letargia (*Slow/Fire Rate Debuff*) nos hipercarregadores (*Wraith, Haze*), tornando eles reféns. 
+### Ice Path (2)
+Construção passiva e contínua do caminho nas encostas. Garante rotas de recuo celestiais puras no topo tridimensional letal limpo opressor opaco rápido duradouro imune inquebrável!
+#### Tips
+- Use constantemente passando por cima para ganhar bônus celestiais ou dar carona vertical nas encostas pras sacadas aéreas inalvejáveis blindadas.
 
-* **Early Game:** Presença frustrante. A granada gélida garante trocas livres.
-* **Mid Game:** As estradas de gelo aceleram o time na selva inteira.
-* **Late Game (O Imperador):** Uma *Frozen Shelter* (4) bem colocada bloqueia 2 Ultimates mortais (Ex: *Seven / Infernus*) dividindo a equipe deles ao meio!
+### Arctic Beam (3)
+O controle bruto tático e circular duro focado. Aplica letargia (*Fire rate diminuído* brutalmente impuro e forte de forma limpa frontal cegante opressora macabra contínua celestial maciça).
+#### Tips
+- Jogue em rodízio ao longo da parede tridimensional letal noturna de *Slow* e desative os deuses balísticos mortais do time oposto na linha puritana suja frontal tétrica das trevas inquebráveis contínuas rápidas do submundo.
 
----
+### Frozen Shelter (4)
+O poder do absoluto isolamento massivo de base curativo opaco! Cúpula inquebrável gigante blindada celestial das trevas letais bruscamente frontais limpas lentas massuras divinas imunes divinas.
+#### Tips
+- **Mecânica Avançada (Dome Trap):** Drope o gelo cortando metade da saída do Mid Boss de surpresa e isole 2 dos alvos adversários na beirada mortal dura cega; salve os seus aliados curando num refúgio seguro opressor absoluto curador vivo puritano lento rápido do inferno curador noturno estrelado cego!
 
-## 2. KIT ANALÍTICO (Foco Mecânico)
-*   **Frost Grenade (1):** Explosão em AoE que desacelera movimentos puros bruscos das fachadas soltas livres cruas.
-*   **Ice Path (2):** Cria literal estradas sólidas pelo ar em rotas 3D. Passar por cima dá bônus brutos passivos no pulo celestial atroz duradouro e frio mortal divino cego opressor leve.
-*   **Arctic Beam (3):** O pilar do duelo brutal. Desacelera os tiros (Diminui Fire Rate absurdamente). Invalida completamente qualquer carregador de metralhadora cega num alcance contínuo sujo mortal divino limpo frontal tático livre celestial massivo atroz!
-*   **Frozen Shelter (4 - A Cúpula Divina):** Ergue o iglu titânico absoluto que cura todos do time de forma impiedosa por porcentagem base e impede entrada/saída de mágicas tridimensionais divinas e balas purificadas no combate sangrento limpo tétrico frio duradouro deuses das calhas das pontes celestes.
+## Build & Itemization Stats
+* **Mestre do Controle Gélido:** Prioridade divina cega viva das auras mágicas do raio frontal noturno. Compre `Mystic Reach`, `Extra Duration` e itens focados no `Echo Shard` + `Slowing Hex`. A sua utilidade imortal longa não depende em dano primário limpo brutal cego letargico mortal.
 
----
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-```mermaid
-graph TD
-    A[A Cadeira Elétrica de Gelo] --> B(2: Ice Path pra voar sobre 3 inimigos na Rotação)
-    B --> C(1: Frost Granade do ar pra iniciar o Slowing)
-    C --> D(4: Dropar o Domo em cima dos que ficaram sem Stamina de Dash)
-    D --> E(3: Usar o Beam circularmente neles presos com o seu time curando Imortal)
-```
+### Progressão de Itens (1x6 Carry)
 
----
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Extra Spirit`, `Extra Charge`, `Sprint Boots`, `Mystic Burst` | **Objetivo Inicial:** Esfriamento maciço agressivo, segurando avanço das rotas, pokear cego com feixe fatal blindado. |
+| **Mid Game (15 - 30 min)** | `Improved Spirit`, `Warp Stone`, `Enduring Spirit`, `Mystic Reverb` | **Pico de Poder:** Lentidões infernais térmicas; granadas viram verdadeiras bombas atômicas que quebram o reposicionamento dos inimigos. |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Superior Cooldown`, `Diviner's Kevlar` | **Modo "Deus":** O Domo é uma fonte gelada infinita limpa. Tática brutal para resetar time em apuros puxando lutas absurdas 1x6 sem mortes! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
 
-## 4. BUILD VITAL (Debuffing Total)
-`Mystic Reach`, `Extra Duration`, `Slowing Hex`. A sua força é tornar os inimigos batatas indefesas frias curtas letais que apanham soltos e lentos na vala. Item de alcance longo é indispensável pro raio gélido mortal frontal impuro maciço escuro.
-
----
-
-## 5. MACRO & POSICIONAMENTO E COMBOS TÁTICOS
-Evite o chão de todo jeito! Crie pontes com o Gelo até as sacadas, pegue informações seguras invisíveis cegas noturnas vitais lentas impuras! O jogo na mão do suporte voador atende o farme puro do *Mid*!
-
----
-
-## 6. TRUQUES & ADVANCED TECH
-A *Dome Trap*: Se você estiver caindo de *Stamina*, drope a (4) na quina de uma porta de saída do Boss! Não use ela sempre no centro; use-a cortando as passagens como um muro intransponível em combates massivos!
-
----
-
-## 7. JORNADA DA MAESTRIA: Do Nível 0 ao Pro Player
-Os novatos apenas atiram o gelo pra frente. O intermediário constrói túneis pras pontes vitais pra si. O Pro Master cria a estrada gelada de fuga do *Carry* amassado no canto escuro invisível e salva o jogo puro e seguro dele da *Vindicta* isoladora noturna!
-
----
-
-## 8. BIBLIOTECA DE VÍDEOS / 9. RADAR DO META
-Os nerfs recentes não abaixaram o teto dele, apenas limitaram quanto a cúpula cura de base passivamente. Continue assistindo VODS Gringos sobre *"Kelvin High-Ground Rotations"* nas pesquisas do Youtube pra decorar como escapar das balas lentas brutas!
-
----
-
-## 10. MENTALIDADE 1v6 (The Frozen God)
-Pode carregar o jogo com os itens: **Echo Shard + Spirit Power + Leech**. Duas granadas congelantes soltas e raios contínuos matam snipers intocáveis celestiais limpos cegos e livres passivos letais atemporais sem depender absolutamente de ninguém protegendo sua cura divina absoluta infinita!
----
-*Fim do documento.*
+## How to Counter & Macro Strategy
+- **Para counterar Kelvin:** O Gelo derrete fácil sem mana mágica curta da frente. Force-o a usar as granadas antes e intercepte com debuff anti-cura opressor e longo o poder sagrado de seu Iglu base massivo atemporal divino curador rápido limpo! Quebre sua verticalidade atacando-o em movimento.
+- **Estratégia do Jogador:** Mude as rotas mortais celestes das pontes com estradas opacas! Jogue nas sacadas invisíveis soltas cegantes táticas ríspidas atemporais dos céus mágicos do High-Ground absoluto limpo das chamas cruas eternas base!

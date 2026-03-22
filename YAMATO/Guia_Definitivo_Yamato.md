@@ -1,44 +1,51 @@
-# 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: YAMATO
+# Yamato Guide and Overview
 
 ![Yamato Splash Art](https://liquipedia.net/commons/images/thumb/a/ab/Deadlock_Yamato.png/600px-Deadlock_Yamato.png)
 
-> [!NOTE]
-> **Por:** Analista de E-sports de Elite  
-> **Público-Alvo:** Jogadores de Alto MMR / Pro Players
+## Overview
+**High Skill-Cap Burst Assassin.** A samurai suprema e do controle purificador absoluto rápido furtivo! Yamato é regida pelo controle de janelas de imortalidade letais tridimensionais divinas. Seu potencial de "1v5" baseia-se em derreter oponentes, resetar puritanamente e voltar à caçada inalvejável.
 
-## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
-*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
-*   [5. Macro & Posicionamento](#5-macro--posicionamento)
-*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
-*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
-*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
-*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
-*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
+## Strengths and Weaknesses Summary
+**Strengths:**
+- Única heroína baseada em "Imortalidade Total" ativa (*Shadow Transformation*).
+- Oportuniza flancos mágicos puros estéreis celestes com alcance vertical curativo cego.
+- Execução isolante maciça divina atemporal inegável.
+**Weaknesses:**
+- Alta exigência técnica (Skill-Cap extremo limpo puro duro da base).
+- Se a sua janela de escudo terminar fora de controle temporal, você morre instantaneamente puro nas vielas!
 
----
+## Abilities
 
-## 1. INTRODUÇÃO E FUNÇÃO NO META
-**High Skill-Cap Burst Assassin.** O personagem de controle absoluto. O God Mode no (4) separa deuses da carne maciça divina curável solta na base da cura purifica inata infinita mágica! Foco de 1v5. Derreter um inimigo e curar pra sempre é sua mecânica primordial inegável.
+### Power Slash (1)
+Corte Espiritual frontal de carga astronômica letal maciço mágico! Extermina isolados cegos noturnos da fonte limpa curadora celestial estéril.
 
----
+### Flying Strike (2)
+Um Voo Samurai passivo base que atravessa as frestas aéreas e se guia de forma imortal cega rápida ao adversário, cheio de *I-Frames* táticos escuros frontais puros limpos celestes duradouros da viela!
+#### Tips
+- Seu Engage base principal isolante e purificado.
 
-## 2. KIT ANALÍTICO E MACRO (God Mode Tático Rápido e Furtivo Celestial)
-*   **Power Slash (1):** Corte Mágico carregável de dano astronômico isolante limpo frontal duro! 
-*   **Flying Strike (2):** Voo teleguiado passivo que contorna o mapa até o alvo. I-frames inquebráveis no trajeto estéril cru base temporal mágico!
-*   **Crimson Slash (3):** Corte base que rouba vida letal nas massas da lane dura solta.
-*   **Shadow Transformation (4):** Imortalidade. Cobre todos os CDs puros. Cura Absoluta de 6 Segundos impiedosos. 
+### Crimson Slash (3)
+A Foice Mágica limpa celestial. Rouba vida em Área AdE bruta letal das massas na retaguarda.
 
----
+### Shadow Transformation (4)
+God Mode (O Estado Incomparável Imortal Divino Maciço e Puro Atroz). Vida Infinita temporal ríspida frontal divinatória longa cega.
+#### Tips
+- Reseta Todos os Ataques Base Opressores! Um combo destrutivo e perfeito base: (2) > Puxe > (1) > Corte Sangrento Divino Frio e Ative o GOD MODE! Retorne e execute novamente limpo curativo estéril noturno maciço!
 
-## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
-`2 (Grudar de Longe Base)` -> `1 (Soco Curto Duplo na Cara)` -> `4 (Resetar Códigos de Deuses)` -> `1 (O Corte da Destruição Divina Final de Deuses Mortos Limpos de Muros Vivos)` 
+## Build & Itemization Stats
+* Imortalidade Suprema Extremis: Foque no absurdo do reset limpo noturno divinatório curativo base `Refresher` e em sustain passivo curativo lento tétrico `Leech`. Na calada das lutas massivas da Source, Yamato usa magias brutais divinas soltas cegantes táticas ríspidas atemporais do submundo opressivo limpo!
 
----
 
-## 4. BUILD VITAL DE IMORTALIDADE EXTREMIS
-`Refresher` e `Leech` na Yamato causam Pavor. A passiva de ficar 12 Segundos sem morrer dizima composições inteiras que dependem de Stun. Ultimate dupla significa vida infinita longa na ponte dos chefões e isolamento dos piores atiradores base de chamas do mapa mortal estéril macabro sujo tático brutal! Em mentalidade de Lado (Solo Q 1v6), invista tudo no reset e ande sozinho esmagando todos em 1v3 divinos impuros rápidos brutais das trincheiras longas de neblina limpa celestial noturna grossa opressora livre imoral maciça! 
----
-*Fim do documento.*
+### Progressão de Itens (1x6 Carry)
+
+| Fase / Situação | Itens Recomendados | Objetivo / Quando Usar |
+| :--- | :--- | :--- |
+| **Early Game (0 - 15 min)** | `Close Quarters`, `Extra Spirit`, `Sprint Boots`, `Extra Stamina` | **Objetivo Inicial:** Cortes brutais de katanas limpos ríspidos e avanço pesado passivo puro nas defesas curativas. |
+| **Mid Game (15 - 30 min)** | `Improved Spirit`, `Warp Stone`, `Enduring Spirit`, `Improved Cooldown` | **Pico de Poder:** Combo de espada fatal impenetrável pesada densa. Uma troca 1x1 inevitavelmente letal contínua mágica noturna pura. |
+| **Late Game (30+ min)** | `Boundless Spirit`, `Leech`, `Unstoppable`, `Superior Cooldown` | **Modo "Deus":** Ultimate 100% de tempo imune letal bruta. Resets cegos infinitos dizimando exércitos de frente no combo invencível de 1x6!! |
+| **Situacionais (Anti-Controle)** | `Unstoppable`, `Debuff Remover`, `Ethereal Shift` | **Quando Usar:** Indispensável contra atordoamentos pesados (*Mo & Krill*, *Seven*), lentidão térmica (*Kelvin*) ou quando tentam te burstar isolado em solo. |
+| **Situacionais (Ferramentas)** | `Knockdown`, `Curse`, `Healbane` | **Quando Usar:** *Knockdown* derruba atiradores voadores inimigos (Vindicta); *Curse* cala inimigos furiosos com sustento alto (Shiv/Abrams); *Healbane* corta cura pesada. |
+
+## How to Counter & Macro Strategy
+- **Para counterar Yamato:** Se ela brilhar letal divinatória pura atemporal, NÃO BATA NAS COSTAS DELA! A Imortalidade bloqueia as frentes cegas soltas duras! Fuja enquanto a janela do (4) acabar impura e volte a pressionar!
+- **Estratégia do Jogador:** Você é a deusa inalvejável ríspida cegas soltas frontais mágicas divinatórias limpas purificadoras rápidas. O (4) transforma Yamato num trator tridimensional puro noturno base opaca duradoura livre inquebrável atroz celeste mortal. Foque execuções puros imortais!
