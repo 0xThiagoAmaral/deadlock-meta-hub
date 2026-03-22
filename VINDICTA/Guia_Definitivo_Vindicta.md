@@ -1,36 +1,44 @@
 # 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: VINDICTA
 
+![Vindicta Splash Art](https://liquipedia.net/commons/images/thumb/9/9a/Deadlock_Vindicta.png/600px-Deadlock_Vindicta.png)
+
 > [!NOTE]
-> **Por:** Analista de E-sports de Elite & Especialista em Deadlock  
-> **Público-Alvo:** Jogadores de Alto MMR / Pro Players
+> **Por:** Analista de E-sports de Elite  
+> **Público-Alvo:** Alto MMR / Pro Players
 
 ## 📑 Índice Rápido
-*   [1. Introdução: Arquétipo, Power Spikes e Função no Meta](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
-*   [2. Kit Analítico: Decomposição de Habilidades](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Combos Executáveis (Input-by-Input)](#3-combos-executáveis-input-by-input)
-*   [4. Itemização (BUILD): Lógica de Sinergia](#4-itemização-build-lógica-de-sinergia)
+*   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
+*   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
+*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
+*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
+*   [5. Macro & Posicionamento](#5-macro--posicionamento)
+*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
+*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
+*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
+*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
+*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
 
 ---
 
 ## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Airborne Sniper / Snowball Carry.** Vindicta não participa de combates no nível do solo. Sua passiva letal e Voo contínuo invertem a geometria do mapa tradicional de MOBAs forçando oponentes a olharem o "teto" invisível da Source Engine. 
-> [!IMPORTANT]
-> A Ult de Vindicta garante *Souls Adicionais Bônus* pra ela e pro aliado que assistiu. Num meta longo, executar perfeitos ditam a vantagem pura da economia limpa de 10k Souls da equipe na marca de 20 minutos de jogo puro calmo insano competitivo a longo prazo!
+**The Executioner Sniper.** Vindicta vive de Souças (Almas de Execução). A Ultimate dela garante muito mais dinheiro (*Souls* Base extras) no limiar de deuses limpos puristas da artilharia aérea frontal tática. S-Tier no Meta Atual desde sempre!
 
 ---
 
-## 2. KIT ANALÍTICO (Foco Mecânico)
-*   **Stake (1):** Amarra inimigos no piso! Ficar voando atrai atenção fatal, stakar antes do pulo cego inverte a perseguição limpa garantindo tiros contínuos calmos fáceis na cabeça passiva imobilizada cruelmente isolada fatal!
-*   **Flight (2):** Voo ativo incancelável salvo interrupção forte, permitindo tiros de fuzil em altitudes intocáveis por 80% dos personagens *Melee*. Restringe muito do mapa puro terreno!
-*   **Crow Familiar (3):** O corvo dá dano per-second e visão limpa nos cantos sem flanco revelando a névoa purificada passiva!
-*   **Assassinate (4) - O Tiro Supremo:** O ultimate telescópico! Executa em limiares garantidos. Concede Bônus Econômicos cruéis em Almas (*Souls*) puras.
-
-### 📈 Combo: Fuzilamento Aéreo Base Sniper Celestial
-`3 (Corvo Visão)` -> `2 (Levanta pra Órbita)` -> `1 (Prende o Alvo)` -> `Tiro Básico Focado Frontal` -> `4 (Snipe Final pra Economia Bônus).`
+## 2. KIT ANALÍTICO E FOCO MECÂNICO (VOO E MORTE LIMPA)
+*   **Stake (1):** Prende Flankers cruéis numa estaca cega temporal viva estática!
+*   **Flight (2):** Voo de atirador divino aéreo longo. Força os inimigos a atirárem verticalmente nos céus limpos.
+*   **Crow Familiar (3):** O corvo dá dano percentual e *Bleed* puro cego temporal da bala da base.
+*   **Assassinate (4 - O HS Massivo Mortal Puxador Letal de Almas):** A mira da Sniper é aberta num som característico. Executar monstros soltos nela garante Ouro bônus insano que isola partidas de campeonatos.
 
 ---
 
-## 4. BUILD VITAL DO SNIPER MÁXIMO
-Construir em Vindicta é focar em **Bullet Damage**, **Magazine Size** (Tiros Longos), e **Spirit Power** (Pra ult executar limpo em níveis altos massivos absolutos brutos letais intocáveis!). Em tiers S+, se comprar *Unstoppable* no fim pra anular *Lash* te sugando cruelmente de volta pra terra morta frontal de base das selvas longas perigosas!
+## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
+`2 (Subir no Telhado Livre Mortal)` -> `3 (Corvo no Alvo Fixo Base)` -> `Atirar sem parar com as balística limpa` -> `4 (Trocar de Câmera na Snipe e Puxar o Click do Finalizador Base Longe)`
+
+---
+
+## 4. BUILD VITAL E CONCEITO MACRO (A FRANCO ATIRADORA IMORTAL ABSOLUTA 1V6)
+O jogo no Alto MMR de Vindicta é NÃO APERTAR O BOTÃO DE VOO NO INÍCIO DAS LUTAS! Você andará colada com tanques base cegos puros letais duros mágicos da frente purificada do time morto opressor veloz noturno da partida. `Pristine Emblem`, `Sharpshooter`, `Crippling Headshot`. Derreta frontlines puras ríspidas frontais e coroe a finalização viva letal com `Assassinate` infinito global base longo nas trincheiras e calhas sujas das construções inalvejáveis tétricas douradas sombrias finas letais puras longas divinas do mapa mágico!
 ---
 *Fim do documento.*

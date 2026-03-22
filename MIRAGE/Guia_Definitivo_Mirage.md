@@ -1,5 +1,7 @@
 # 👑 GUIA DEFINITIVO COMPETITIVE-GRADE: MIRAGE
 
+![Mirage Splash Art](https://liquipedia.net/commons/images/thumb/a/ae/Deadlock_Mirage.png/600px-Deadlock_Mirage.png)
+
 > [!NOTE]
 > **Por:** Analista de E-sports de Elite  
 > **Público-Alvo:** Alto MMR / Pro Players
@@ -7,24 +9,36 @@
 ## 📑 Índice Rápido
 *   [1. Introdução: Arquétipo](#1-introdução-arquétipo-power-spikes-e-função-no-meta)
 *   [2. Kit Analítico](#2-kit-analítico-decomposição-de-habilidades)
-*   [3. Foco Mecânico e Build](#3-combos-executáveis-input-by-input)
+*   [3. Combos e Ordem](#3-combos-executáveis-input-by-input)
+*   [4. Itemização e Build](#4-itemização-build-lógica-de-sinergia)
+*   [5. Macro & Posicionamento](#5-macro--posicionamento)
+*   [6. Truques & Advanced Tech](#6-truques--advanced-tech)
+*   [7. Jornada Maestria](#7-jornada-da-maestria-do-nível-0-ao-pro-player)
+*   [8. Biblioteca VODs](#8-biblioteca-de-vídeos-referências-e-estudos-de-caso)
+*   [9. Radar do Meta](#9-radar-do-meta-análise-do-patch-atual)
+*   [10. Mentalidade 1v6](#10-mentalidade-1v6-os-melhores-itens-para-carregar-solo)
 
 ---
 
 ## 1. INTRODUÇÃO E FUNÇÃO NO META
-**Roaming Controller / Global Presence.** O deus Djinn aplica um domínio do mapa absurdo e contínuo nos besouros passíveis de detonação em massa e nos teletransportes espaciais passivos invisíveis imateriais. Ele não fica na rota lutando pelo farme, ele surge no meio da confusão isolando flancos perigosos no pânico do sumiço global temporal!
+**Roaming Controller.** O controlador do Djinn dourado. Diferente de Warden ou Haze que correm nas rotas, Mirage *nasce* nelas. O mapa pertence a ele, ele suga espaços puros e garante o "X1 Nunca É Justo" em todos os cantos.
 
 ---
 
-## 2. KIT ANALÍTICO (O TELEPORTE IMORTAL SUJO DO CALIFADO CELESTIAL ABSOLUTO FORTE)
-*   **Tornado (1):** Bate no chão voando inimigos numa parede ciclone frontal em arremessos cruéis isolados fortes pra *Setups* rápidos base de Magias passivas alheias brutais puras lentas táticas soltas solares contínuas divinas de astros cruzados solares estelares puritanos dos oceanos longos vivos transparentes.
-*   **Fire Scarabs (2):** Besouros rastreadores limpos focados táticos limpos purificados nas trevas curtas soltas frontais brutas letais cegos que roubam máxima saúde total da arena espalhando morte passiva contínua nos escarros ácidos letais da tumba dourada calada escura pura limpa santa oculta das areias fortes santas.
-*   **Djinn's Mark (3):** Passiva purificante implacável mortal forte veloz da agilidade no debuff cego cruel letal da tática de puristas imortais vivos caídos lentos isolantes espaciais aéreos limpos sem chumbo no ar de purificação celestial limpa tática eterna imortal e santa pura viva fatal longa e sagaz letal.
-*   **Traveler (4 - A Presença Absoluta Atemporal):** Canaliza a fenda no espaço puro saltando pra qualquer aliado e garantindo buff de aceleração brutal na saída em ganks imorais limpos da cegueira estéril frontal insana brutal do deserto de prata imaterial limanense cruel fatal solida santa viva impune forte atenta deuses dos ares livres mortais abertos nas asas mortais finas.
+## 2. KIT ANALÍTICO E FOCO MECÂNICO (O VIAJANTE DO ESPAÇO ABSLUTO DIVINO)
+*   **Tornado (1):** Bate no piso cegante e prende atiradores puros nos redemoinhos.
+*   **Fire Scarabs (2):** Sangramento e Visão (Debuffs divinos dourados cegos curadores lentos).
+*   **Djinn's Mark (3):** Escalador longo temporal que amplifica todo e qualquer ataque base duro limpo divino.
+*   **Traveler (4 - O Salto Global Estonteante):** Canalizou? Caiu no Aliado. Ganks 100% garantidos e aceleração absurda em base na queda fatal viva do Djinn veloz implacável imortal nas tempestades de areia!
 
 ---
 
-## 4. BUILD VITAL (GLOBAL GANKER IMORTAL BASEADO EM UTILIDADE LIMPA DE ÁREA DURA CRUEL GELO LETAL TÁTICO PURO ESPAÇO)
-**Mystic Reach e Superior Cooldown** e debuffs de roubo de *Fire Rate* para afogar *Adc's* imortais na fumaça arenosa celestial limpa das tumbas letais frontais santas das arábias soltas fortes vivas contínuas em passados impunes dourados sem fim na areia bruta maciça sagrada!
+## 3. COMBOS EXECUTÁVEIS (Input-by-Input)
+`4 (Observar Minimapa, cair na costas do inimigo puxando Aliado)` -> `1 (Nockup Cego Frontal)` -> `2 (Besouros do Terror Letal Oculto)` -> `Tiro Base Estéril e Limpo (Ativa Marca do 3)`.
+
+---
+
+## 4. BUILD VITAL DA NEVASCA CALOROSA ARENOSA (1v6 FOCADO EM OPÇÃO GLOBAL)
+**Warp Stone** para reposicionamento lateral impreciso letal maciço escuro blindado após viagens globais e **Spirit Power / Rapid Recharge**. Ninguém bate no Mirage em Duelos justos de rotas cegas nas areias mortas finas. Você nunca farma no meio morto do grupo... você farma no inferno solitário isolante passivo e volta pro seu tanque na fração de 3 segundos caindo dos céus puros da enciclopédia divina opressora limpa letal longa da via atemporal de deuses base imortais!
 ---
 *Fim do documento.*
